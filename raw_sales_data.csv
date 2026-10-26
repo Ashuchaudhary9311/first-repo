@@ -1,0 +1,1036 @@
+Order_ID,Order_Date,Customer_Name,Customer_Age,City,Product,Category,Quantity,Unit_Price,Discount_Percent,Payment_Method,Rating
+ORD1404,02-Jul-2025,Karan Tiwari,63.0,,Water Bottle,Accessories,2,650.44,0.0,Credit Card,5.0
+ORD1351,17 January 2025,Suresh Singh,33.0,Delhi,Headphones,Electronics,1,2303.0,0.0,Debit Card,3.0
+ORD1205,2025-04-08,Kavita Kumar,29.0,Delhi,Notebook Pack,Stationery,4,241.08,0.0,Net Banking,
+ORD1009,04 February 2025,Suresh Mishra,21.0,Delhi,Smartphone,Electronics,2,23282.39,5.0,credit card,4.0
+ORD1625,26-Mar-2025,Kavita Sharma,52.0,Noida,Notebook Pack,Stationery,1,255.37,0.0,UPI,3.0
+ORD1950,04 February 2025,Manish Chaudhary,60.0,,Backpack,Accessories,3,1807.4,5.0,Net Banking,5.0
+ORD1336,2025-12-18,Pooja Gupta,28.0,Greater Noida,Pen Set,Stationery,5,146.73,10.0,Credit Card,5.0
+ORD1285,2025-12-09,Karan Singh,36.0,Greater Noida,Office Chair,  Furniture ,3,7825.59,10.0,Credit Card,4.0
+ORD1163,29-May-2025,Anjali Gupta,31.0,greater noida,smartphone,Electronics,2,22329.42,15.0,Debit Card,5.0
+ORD1715,19 October 2025,Aman Tiwari,46.0,  Ghaziabad ,Notebook Pack,  Stationery ,1,272.14,0.0,Cash,3.0
+ORD1660,2025-03-06,Priya Verma,34.0,Delhi,Laptop,Electronics,1,53508.23,10.0,,3.0
+ORD1681,2025-02-20,Karan Jain,40.0,Delhi,Smartphone,Electronics,1,19964.27,,Credit Card,1.0
+ORD1818,31 August 2025,Aman Mishra,65.0,Noida  ,Pen Set,Stationery,4,144.58,0.0,UPI  ,3.0
+ORD1377,2025-09-30,Anjali Mishra  ,19.0,Noida,Headphones,Electronics,1,2445.24,5.0,Credit Card,3.0
+ORD1094,24 November 2025,Ankit Yadav,30.0,Gzb,Laptop,Electronics,2,49967.04,5.0,Credit Card  ,5.0
+ORD1491,13-Nov-2025,Deepak Singh,59.0,Delhi,Pen Set,Stationery,5,153.95,0.0,Credit Card,5.0
+ORD1305,21 February 2025,Priya Gupta,56.0,Ghaziabad,Smartphone,electronics,1,23417.36,0.0,UPI,1.0
+ORD1969,14-Jan-2025,Manish Verma,37.0,Lucknow,Smartphone,ELECTRONICS,1,20265.11,0.0,UPI,3.0
+ORD1669,18-Feb-2025,Ritu Sharma,52.0,Noida,Smartphone,Electronics,2,20673.05,10.0,Debit Card,
+ORD1270,2025-04-18,Rahul Tiwari,19.0,Gurugram,Headphones,Electronics,5,₹2599.32,20.0,Net Banking,2.0
+ORD1577,2025-07-11,Aman Sharma,46.0,,Notebook Pack,Stationery,4,273.09,5.0,Credit Card,3.0
+ORD1833,22-Feb-2025,Meena Chaudhary,36.0,Lucknow,Water Bottle,Accessories,1,583.34,10.0,Debit Card,4.0
+ORD1996,2025-07-12,Ankit Singh,29.0,Gurugram,Backpack  ,Accessories,5,1629.2,0.0,upi ,3.0
+ORD1326,28-Mar-2025,Suresh Tiwari,62.0,Lucknow,NOTEBOOK PACK,Stationery,2,236.31,5.0,UPI,4.0
+ORD1379,06 April 2025,Kavita Yadav,61.0,Delhi,Notebook Pack,Stationery,3,254.04,0.0,Credit Card,3.0
+ORD1500,11-Feb-2025,Vikas Tiwari,25.0,Delhi,Laptop,Electronics,1,56792.2,10.0,Credit Card,5.0
+ORD1013,05-Oct-2025,Priya Sharma,58.0,Gurugram,Headphones,Electronics,4,2724.65,5.0,UPI,3.0
+ORD1542,2025-03-13,Anjali Tiwari,29.0,  Noida ,Pen Set,Stationery,5,152.5,20.0,UPI,4.0
+ORD1590,20-Oct-2025,Ankit Verma,21.0,Gzb,Headphones,Electronics,2,2339.89,5.0,Debit Card,3.0
+ORD1256,2025-09-05,Divya Sharma,64.0,  Gurugram ,Headphones,Electronics,4,2495.78,5.0,Credit Card,4.0
+ORD1113,17 June 2025,Deepak Tiwari,5.0,Delhi,Water Bottle,Accessories,1,613.26,0.0,Debit Card,1.0
+ORD1705,2025-07-26,Pooja Jain,59.0,Ghaziabad,Laptop,Electronics,2,55075.98,0.0,Credit Card,5.0
+ORD1755,09 June 2025,Manish Mishra,54.0,Greater Noida,Backpack,Accessories,1,1783.09,10.0,upi,4.0
+ORD1314,31-Mar-2025,Aman Sharma,29.0,Ghaziabad,Smartphone,  Electronics ,1,21692.12,15.0,Debit Card,2.0
+ORD1423,2025-08-01,Ankit Tiwari,26.0,Delhi,Notebook Pack,Stationery,4,241.36,20.0,UPI,5.0
+ORD1820,09 January 2025,Divya Tiwari,57.0,Ghaziabad,Notebook Pack,Stationery,5,239.49,10.0,Net Banking,5.0
+ORD1133,24 July 2025,Deepak Kumar,51.0,Lucknow,Office Chair,Furniture,5,7629.26,0.0,Credit Card,5.0
+ORD1968,02-Dec-2025,Ankit Mishra,33.0,Ghaziabad,Pen Set,Stationery,5,157.43,20.0,  Credit Card ,4.0
+ORD1662,13-Jan-2025,Rohit Tiwari,27.0,Delhi,Backpack,Accessories,2,1708.89,20.0,Credit Card,3.0
+ORD1489,10-Aug-2025,  Meena Jain ,28.0,Ghaziabad,Pen Set,Stationery,3,149.23,0.0,Debit Card,3.0
+ORD1750,17 December 2025,Aman Chaudhary,61.0,,Smartphone,Electronics,1,20992.33,10.0,  UPI ,5.0
+ORD1046,12-Jun-2025,Manish Verma,21.0,ghaziabad,Office Chair,Furniture,5,7653.0,10.0,Credit Card,5.0
+ORD1613,2025-05-21,Ritu Jain,55.0,Ghaziabad,Water Bottle,Accessories,1,555.89,0.0,Credit Card,5.0
+ORD1906,2025-05-31,Priya Sharma,31.0,Ghaziabad  ,Water Bottle,Accessories,4,611.98,0.0,UPI  ,3.0
+ORD1186,02-Mar-2025,Priya Gupta,29.0,New Delhi,Study Table,FURNITURE,4,6115.03,0.0,  Debit Card ,3.0
+ORD1902,2025-03-21,Divya Singh,49.0,Lucknow,Water Bottle,Accessories,5,578.21,5.0,Credit Card,4.0
+ORD1153,2025-04-18,Divya Singh,44.0,Ghaziabad,Headphones,Electronics,4,2625.5,15.0,,5.0
+ORD1389,25 February 2025,Neha Mishra  ,46.0,Delhi,Pen Set,Stationery,3,141.55,15.0,Credit Card,3.0
+ORD1899,2025-08-13,Ankit Sharma,29.0,Greater Noida,Office Chair,Furniture,5,7702.26,10.0,UPI,
+ORD1164,2025-06-02,Ritu Verma,38.0,Greater Noida,Headphones,Electronics,1,2673.17,20.0,Debit Card,
+ORD1024,13 October 2025,Priya Sharma,47.0,Gurugram,Smartphone,Electronics,2,23616.66,0.0,UPI,5.0
+ORD1426,2025-11-12,Anjali Tiwari,31.0,Gurugram,Smartphone,Electronics,2,20862.55,,UPI,3.0
+ORD1253,2025-05-01,Divya Chaudhary,51.0,Greater Noida,Notebook Pack,Stationery,2,257.08,10.0,Credit Card,4.0
+ORD1643,25-Jun-2025,Rahul Chaudhary,20.0,Ghaziabad,Backpack,Accessories,1,1824.9,0.0,DEBIT CARD,
+ORD1098,21 August 2025,Karan Verma,62.0,Delhi,Water Bottle,Accessories  ,2,610.1,0.0,Credit Card,5.0
+ORD1585,2025-12-04,Sachin Verma,45.0,Ghaziabad,Pen Set,Stationery,2,162.46,5.0,Credit Card,
+ORD1651,27 August 2025,Divya Mishra,48.0,Noida,Backpack,Accessories,4,1910.95,15.0,UPI,
+ORD1702,2025-03-03,Manish Singh,27.0,Greater Noida,Backpack,Accessories,3,1676.69,5.0,Debit Card,4.0
+ORD1262,2025-04-20,Pooja Chaudhary,60.0,noida,Laptop,Electronics,1,53364.85,5.0,Credit Card,
+ORD1146,13-Jan-2025,Pooja Yadav,25.0,Lucknow,Laptop,Electronics  ,2,56387.75,20.0,net banking,5.0
+ORD1714,2025-12-02,Pooja Sharma,33.0,New Delhi,Headphones,Electronics,1,2543.19,20.0,Net Banking,5.0
+ORD1943,23-Jun-2025,Neha Gupta,51.0,Delhi,Laptop,  Electronics ,2,57735.85,10.0,UPI,5.0
+ORD1308,2025-04-26,Neha Chaudhary,20.0,  Delhi ,Notebook Pack,Stationery,3,245.85,15.0,Net Banking,5.0
+ORD1185,12 June 2025,Divya Chaudhary,50.0,Gurugram,Headphones,Electronics,1,2563.38,0.0,Net Banking,4.0
+ORD1025,24-Aug-2025,Suresh Sharma,60.0,Ghaziabad,Office Chair,Furniture  ,1,7842.56,5.0,Debit Card,5.0
+ORD1995,17-Aug-2025,Manish Tiwari,43.0,Noida,Notebook Pack,Stationery,3,244.49,5.0,Credit Card,5.0
+ORD1108,2025-06-22,Suresh Mishra,38.0,Gurugram,Pen Set,Stationery,1,158.81,0.0,Net Banking,4.0
+ORD1060,03-Dec-2025,Kavita Mishra,35.0,Delhi,Smartphone,Electronics,2,21121.2,5.0,UPI,4.0
+ORD1569,28 July 2025,Pooja Mishra,60.0,Delhi,Office Chair  ,Furniture,5,8075.76,150.0,Credit Card,5.0
+ORD1216,29-Jan-2025,anjali jain,-5.0,Lucknow,Notebook Pack,Stationery,3,259.91,0.0,UPI,4.0
+ORD1297,10-Jun-2025,Priya Tiwari,37.0,Gurugram,Smartphone,Electronics,1,23169.25,10.0,Net Banking,5.0
+ORD1813,14-Apr-2025,Sneha Singh,56.0,Lucknow  ,Laptop,Electronics,1,55592.49,5.0,UPI,5.0
+ORD1168,03-May-2025,Kavita Sharma,34.0,Greater Noida,Headphones  ,Electronics,1,2658.92,10.0,Net Banking,3.0
+ORD1744,2025-10-18,Sachin Tiwari,59.0,Noida,Office Chair,Furniture,3,6986.02,0.0,Debit Card,4.0
+ORD1961,30-May-2025,Neha Verma,29.0,Delhi,Notebook Pack,Stationery,1,272.47,10.0,Net Banking,4.0
+ORD1504,11 April 2025,Divya Jain,,Delhi,Notebook Pack,Stationery,4,226.28,0.0,Credit Card,4.0
+ORD1140,25-Dec-2025,Manish Gupta,34.0,Greater Noida,Pen Set,STATIONERY,2,142.05,0.0,UPI,
+ORD1518,2025-06-23,ankit chaudhary,64.0,Noida,Laptop,Electronics,2,51852.0,20.0,UPI,3.0
+ORD1334,17-Jun-2025,Anjali Jain,48.0,New Delhi,Pen Set,Stationery,4,143.49,10.0,Debit Card,5.0
+ORD1125,26 July 2025,Rahul Chaudhary,24.0,Gurugram,Study Table,Furniture,1,6446.53,10.0,Cash,3.0
+ORD1446,2025-04-25,Sachin Tiwari,47.0,Greater Noida,Pen Set,Stationery,4,161.99,0.0,UPI,3.0
+ORD1602,27 September 2025,Rahul Gupta,65.0,Delhi,Pen Set,Stationery,4,140.95,15.0,UPI,5.0
+ORD1986,14 August 2025,Divya Kumar,57.0,New Delhi,Water Bottle,ACCESSORIES,4,640.12,20.0,Debit Card,5.0
+ORD1749,2025-02-27,Aman Singh,47.0,Ghaziabad,Water Bottle,Accessories,4,₹551.38,0.0,Credit Card,5.0
+ORD1682,17-Dec-2025,Aman Tiwari,49.0,Gurugram,Smartphone,Electronics,1,22999.45,0.0,UPI,5.0
+ORD1880,01-Feb-2025,Ankit Tiwari,62.0,Delhi,Study Table,Furniture,4,"Rs. 6,589.78",10.0,Credit Card,5.0
+ORD1601,2025-10-12,Karan Chaudhary,55.0,Ghaziabad,Headphones,Electronics,3,2278.81,10.0,Net Banking  ,5.0
+ORD1026,2025-05-27,Deepak Kumar,29.0,ghaziabad,WATER BOTTLE,Accessories,1,574.54,0.0,Credit Card,4.0
+ORD1707,28-Jul-2025,Anjali Kumar,41.0,,Notebook Pack,Stationery,2,239.77,0.0,Debit Card,5.0
+ORD1718,2025-03-28,Rohit Gupta,22.0,NOIDA,Pen Set,Stationery,1,135.79,5.0,Net Banking,0.0
+ORD1616,2025-04-02,Ritu Tiwari,56.0,Noida,Smartphone,Electronics,2,,5.0,UPI,
+ORD1399,2025-04-24,Divya Gupta,39.0,Ghaziabad,Notebook Pack,Stationery,4,265.48,5.0,Credit Card,5.0
+ORD1034,2025-11-21,Manish Mishra,29.0,Delhi,Laptop,Electronics,2,58071.97,0.0,Net Banking,5.0
+ORD1053,20 June 2025,Ankit Kumar,61.0,  Gurugram ,water bottle,Accessories,5,658.27,20.0,UPI,4.0
+ORD1244,2025-08-18,Rahul Verma,51.0,Gurugram,  Notebook Pack ,Stationery,2,229.77,0.0,Credit Card,
+ORD1597,2025-10-12,Pooja Jain,26.0,Ghaziabad,Backpack,Accessories,2,"Rs. 1,932.33",0.0,Credit Card,1.0
+ORD1807,10-Feb-2025,Sachin Sharma,65.0,Ghaziabad,Pen Set,Stationery,2,151.75,10.0,Cash,5.0
+ORD1259,03 August 2025,Sachin Verma,53.0,Delhi,Notebook Pack,Stationery,4,239.59,0.0,UPI,4.0
+ORD1563,2025-03-08,Karan Gupta  ,64.0,Noida,Notebook Pack,Stationery,2,265.94,10.0,Cash,4.0
+ORD1942,30 November 2025,aman jain,43.0,New Delhi,Smartphone,Electronics,1,23579.46,0.0,Net Banking,3.0
+ORD1407,22-Feb-2025,Karan Tiwari,49.0,Delhi,Smartphone,Electronics,1,20604.77,0.0,Net Banking,5.0
+ORD1768,2025-02-21,Aman Kumar,23.0,Delhi  ,Notebook Pack,Stationery,5,241.41,10.0,Debit Card,4.0
+ORD1821,31-Aug-2025,Neha Tiwari,43.0,Ghaziabad,Notebook Pack,Stationery,1,264.34,10.0,Net Banking,4.0
+ORD1417,2025-02-14,Manish Chaudhary,47.0,Delhi,Smartphone,Electronics,2,21141.8,0.0,Credit Card,4.0
+ORD1454,06 August 2025,Priya Kumar,20.0,Gurugram,Water Bottle,Accessories,4,644.96,20.0,Debit Card,5.0
+ORD1420,05-Dec-2025,Aman Tiwari,61.0,Delhi,Smartphone,Electronics,1,"Rs. 21,184.63",15.0,Credit Card,4.0
+ORD1973,2025-06-23,Rohit Kumar,27.0,Ghaziabad,Notebook Pack,stationery,2,226.55,0.0,Net Banking,5.0
+ORD1673,04-Feb-2025,Deepak Kumar,29.0,,Pen Set,Stationery,3,146.46,5.0,Credit Card,5.0
+ORD1623,02 June 2025,Aman Kumar,50.0,Noida,Smartphone,Electronics,2,22642.45,10.0,Cash,5.0
+ORD1514,17-Dec-2025,Karan Jain,32.0,Delhi,Headphones,Electronics,4,2680.91,5.0,Debit Card,5.0
+ORD1367,26 April 2025,Neha Tiwari,38.0,delhi,Pen Set,Stationery,5,146.79,10.0,UPI,4.0
+ORD1328,21 February 2025,Sachin Sharma,31.0,DELHI,Backpack,Accessories,3,1900.21,5.0,  UPI ,4.0
+ORD1761,21 July 2025,Meena Mishra,41.0,Ghaziabad,Office Chair,Furniture,4,7679.96,10.0,  UPI ,5.0
+ORD1375,2025-02-04,neha chaudhary,56.0,Lucknow,Backpack,Accessories,4,1806.76,5.0,Debit Card,
+ORD1769,18-May-2025,Karan Jain,38.0,Noida,Notebook Pack,Stationery,1,,20.0,Debit Card,4.0
+ORD1921,2025-07-28,Ankit Kumar,,ghaziabad,Notebook Pack,Stationery,1,239.35,20.0,Net Banking,2.0
+ORD1528,01 December 2025,Ankit Gupta,44.0,New Delhi,Pen Set,Stationery,4,145.34,10.0,UPI,
+ORD1666,03-Jul-2025,Rohit Jain,49.0,Ghaziabad,Backpack,Accessories,5,1825.39,15.0,Credit Card,4.0
+ORD1499,05-Jun-2025,Pooja Kumar,26.0,  Ghaziabad ,Headphones,Electronics,3,2547.75,0.0,UPI,4.0
+ORD1449,15-Apr-2025,Aman Tiwari,62.0,Delhi,Headphones,Electronics,3,2386.47,20.0,UPI  ,4.0
+ORD1748,25-Apr-2025,Aman Singh,33.0,  Ghaziabad ,Backpack,Accessories,1,1834.86,10.0,UPI,2.0
+ORD1874,12 September 2025,Deepak Singh,53.0,Delhi  ,Water Bottle,Accessories,1,641.35,0.0,UPI,4.0
+ORD1570,2025-12-13,Rohit Jain,33.0,Greater Noida,Backpack,Accessories  ,3,1858.77,0.0,UPI,5.0
+ORD1099,21-Feb-2025,Priya Sharma  ,21.0,Ghaziabad,Notebook Pack,stationery,2,254.89,15.0,UPI,5.0
+ORD1567,2025-04-02,Priya Tiwari,,Delhi,Pen Set,Stationery,4,153.98,0.0,Debit Card  ,2.0
+ORD1947,2025-02-18,Ankit Sharma,56.0,Greater Noida,Notebook Pack,Stationery,5,257.49,20.0,UPI,4.0
+ORD1620,08 June 2025,Pooja Tiwari,45.0,Ghaziabad,Pen Set,Stationery,2,144.98,0.0,net banking,5.0
+ORD1492,02 October 2025,Manish Yadav,55.0,Gurugram,Pen Set,Stationery,5,159.02,5.0,Debit Card,3.0
+ORD1781,21 August 2025,Neha Mishra,55.0,Noida,  Office Chair ,Furniture,5,7646.46,5.0,UPI,5.0
+ORD1794,07-Jun-2025,Divya Jain,18.0,Noida,Headphones,Electronics,5,2453.32,0.0,UPI,4.0
+ORD1791,2025-06-15,Deepak Verma,49.0,Delhi,Pen Set,Stationery,5,161.61,20.0,UPI,3.0
+ORD1463,02-Jun-2025,Vikas Chaudhary,21.0,Delhi,Smartphone  ,Electronics,1,23228.21,0.0,  Credit Card ,
+ORD1817,08-Feb-2025,Neha Verma,43.0,Delhi,Laptop,Electronics,1,51852.38,0.0,Debit Card,2.0
+ORD1875,2025-07-04,Priya Kumar,20.0,Greater Noida,smartphone,Electronics,1,23969.87,20.0,Credit Card,
+ORD1840,16-Apr-2025,Pooja Gupta,21.0,Delhi,Smartphone,Electronics,2,21467.31,20.0,CASH,4.0
+ORD1737,02-May-2025,Ankit Singh,24.0,Greater Noida,Study Table,Furniture,2,"Rs. 5,798.93",15.0,UPI,
+ORD1110,12 April 2025,Sachin Chaudhary,58.0,Greater Noida,Notebook Pack,Stationery,3,255.62,10.0,UPI  ,4.0
+ORD1677,2025-01-31,Divya Yadav,19.0,  Gurugram ,Office Chair,Furniture,3,7710.11,0.0,UPI,
+ORD1057,26 February 2025,Priya Sharma  ,58.0,Delhi,Notebook Pack,Stationery,1,254.09,0.0,Debit Card,4.0
+ORD1319,08-Oct-2025,Divya Gupta,30.0,Gurugram,Headphones,Electronics,4,2333.65,20.0,CASH,
+ORD1968,02-Dec-2025,Ankit Mishra,33.0,Ghaziabad,Pen Set,Stationery,5,157.43,20.0,  Credit Card ,4.0
+ORD1868,12-Jun-2025,Suresh Jain,35.0,Gzb,Smartphone,Electronics,2,19923.43,0.0,Cash,3.0
+ORD1138,2025-05-07,Karan Gupta,34.0,Noida,Pen Set,Stationery,5,152.8,5.0,Net Banking,5.0
+ORD1179,02-Jul-2025,Priya Kumar,59.0,Gurugram,Office Chair,Furniture,1,8073.12,10.0,Debit Card,4.0
+ORD1442,2025-02-18,,26.0,Noida,Smartphone,Electronics,1,24103.39,5.0,UPI,4.0
+ORD1815,02 November 2025,Ankit Jain,26.0,Ghaziabad,Pen Set,Stationery,5,151.31,0.0,  Credit Card ,5.0
+ORD1043,10-May-2025,Sachin Tiwari,50.0,Gurugram,Water Bottle,Accessories,1,556.21,10.0,UPI,4.0
+ORD1884,2025-10-24,  Pooja Sharma ,38.0,Noida,Water Bottle,Accessories,4,,0.0,UPI  ,3.0
+ORD1063,2025-12-20,Kavita Verma,57.0,Gzb,notebook pack,  Stationery ,3,245.7,0.0,upi ,5.0
+ORD1836,2025-10-23,NISHA JAIN,36.0,Gurugram,Smartphone,Electronics,2,22331.77,5.0,upi ,3.0
+ORD1228,19-Jul-2025,Priya Verma,26.0,Lucknow,Study Table,Furniture,2,₹5868.33,0.0,UPI,5.0
+ORD1038,2025-04-12,Nisha Chaudhary,57.0,Ghaziabad,Smartphone,Electronics,1,20125.85,0.0,Cash,4.0
+ORD1975,24 March 2025,Vikas Tiwari,56.0,Ghaziabad,Notebook Pack,Stationery,4,259.97,5.0,UPI,4.0
+ORD1557,16 November 2025,Aman Tiwari  ,36.0,Delhi,Headphones,Electronics,1,2590.91,0.0,Credit Card,5.0
+ORD1984,03 August 2025,Ankit Verma,38.0,Noida,Notebook Pack,Stationery,3,₹253.3,10.0,Debit Card,2.0
+ORD1955,12 August 2025,suresh yadav,47.0,Greater Noida,Smartphone,Electronics,1,21445.14,5.0,  Debit Card ,5.0
+ORD1171,02-Feb-2025,Aman Jain,51.0,  Ghaziabad ,Notebook Pack,Stationery,3,244.67,15.0,upi,5.0
+ORD1667,11-Nov-2025,Ritu Chaudhary,36.0,Noida,Notebook Pack,Stationery,1,,,Credit Card,5.0
+ORD1802,08-Jul-2025,Karan Yadav,51.0,Delhi,Pen Set,Stationery,4,161.89,,  Debit Card ,4.0
+ORD1789,05-Jan-2025,Kavita Gupta,46.0,Noida,notebook pack,Stationery,5,230.02,5.0,,5.0
+ORD1611,18-Jun-2025,Manish Singh,65.0,Lucknow,Study Table,  Furniture ,4,6268.71,0.0,,5.0
+ORD1642,2025-11-08,Divya Kumar  ,57.0,Greater Noida,Backpack,Accessories,5,1755.46,5.0,Cash,4.0
+ORD1915,17-Jun-2025,Neha Sharma,42.0,Noida,Pen Set,  Stationery ,2,,15.0,Net Banking,3.0
+ORD1991,20 July 2025,Anjali Mishra,54.0,Noida,Backpack,Accessories,2,1957.51,0.0,UPI,4.0
+ORD1170,08-Feb-2025,Suresh Gupta,65.0,Gzb,Smartphone,Electronics,1,21477.75,15.0,UPI,
+ORD1284,2025-06-11,Vikas Kumar,18.0,New Delhi,Water Bottle,Accessories,4,599.8,5.0,,2.0
+ORD1756,27-Sep-2025,Deepak Verma,44.0,Gurugram,Pen Set,Stationery,1,152.45,10.0,UPI  ,4.0
+ORD1196,06-May-2025,Aman Jain,28.0,Noida,Pen Set,stationery,1,142.49,0.0,Credit Card,4.0
+ORD1742,2025-08-20,Kavita Yadav,23.0,Gurugram,Office Chair,Furniture,2,7169.16,0.0,Credit Card,
+ORD1361,2025-11-22,Ritu Singh  ,42.0,Noida,Pen Set,Stationery,4,149.4,20.0,Debit Card,4.0
+ORD1511,2025-09-30,Rahul Jain,,Ghaziabad,Notebook Pack,Stationery,3,,,Credit Card,2.0
+ORD1834,08 November 2025,Rahul Yadav,31.0,Greater Noida,Water Bottle,accessories,1,648.23,5.0,UPI,4.0
+ORD1396,17-Jan-2025,Karan Jain,20.0,Noida,Headphones,Electronics,1,2681.24,0.0,Net Banking,3.0
+ORD1061,29-Sep-2025,Deepak Chaudhary,48.0,Ghaziabad,Headphones,electronics,3,2259.22,5.0,upi ,5.0
+ORD1609,10 November 2025,Suresh Kumar,35.0,Ghaziabad,Headphones,electronics,2,2484.99,5.0,UPI,5.0
+ORD1830,31 March 2025,Pooja Mishra,47.0,Noida,Pen Set,Stationery,2,,5.0,UPI,5.0
+ORD1339,14 December 2025,Rahul Gupta,18.0,Lucknow,  Notebook Pack ,Stationery,5,274.95,5.0,UPI,4.0
+ORD1530,07 August 2025,Kavita Mishra,61.0,Noida,notebook pack,Stationery,5,Rs. 237.26,20.0,Credit Card,4.0
+ORD1938,18 June 2025,Rahul Gupta,65.0,Noida,Water Bottle,Accessories,1,589.55,0.0,Credit Card,3.0
+ORD1523,2025-10-29,Suresh Tiwari,49.0,  Gurugram ,Notebook Pack,Stationery,3,231.28,5.0,UPI,
+ORD1708,23-Jun-2025,Kavita Sharma,999.0,Delhi,Headphones,Electronics,4,2611.9,5.0,Debit Card,5.0
+ORD1299,08-Jan-2025,priya chaudhary,59.0,Greater Noida,Pen Set,Stationery,3,136.33,20.0,Net Banking,4.0
+ORD1350,14-Jul-2025,  Ankit Mishra ,52.0,Delhi,Smartphone,Electronics,1,24019.72,20.0,Credit Card,5.0
+ORD1974,23 February 2025,Rohit Sharma,44.0,Delhi,Notebook Pack,Stationery,4,246.43,0.0,Net Banking,5.0
+ORD1362,23-Mar-2025,Rahul Jain,58.0,Noida,Pen Set,Stationery,5,146.78,0.0,Cash,4.0
+ORD1108,2025-06-22,Suresh Mishra,38.0,Gurugram,Pen Set,Stationery,1,158.81,0.0,Net Banking,4.0
+ORD1109,15 September 2025,Priya Mishra,54.0,Ghaziabad,Study Table,Furniture,1,6074.41,0.0,Debit Card,5.0
+ORD1473,20-Jun-2025,Ritu Tiwari,38.0,Delhi,Water Bottle,Accessories,2,600.93,20.0,UPI,4.0
+ORD1204,2025-06-16,Pooja Chaudhary,27.0,Ghaziabad,Headphones,Electronics,3,2598.64,5.0,Net Banking,5.0
+ORD1232,08 January 2025,Neha Gupta,24.0,Gurugram,Smartphone,Electronics,1,20649.23,5.0,Net Banking  ,4.0
+ORD1594,28-Apr-2025,Rahul Chaudhary,18.0,Ghaziabad,Notebook Pack,Stationery,1,262.34,5.0,UPI,3.0
+ORD1294,2025-07-18,Sachin Tiwari,42.0,Lucknow,Laptop,Electronics,2,55157.51,10.0,UPI,5.0
+ORD1893,2025-12-24,Sneha Kumar,38.0,  Lucknow ,laptop,Electronics,2,,15.0,UPI,1.0
+ORD1626,2025-05-04,Anjali Singh,20.0,Noida,Notebook Pack,Stationery,3,272.99,5.0,UPI,5.0
+ORD1148,27-Oct-2025,  Anjali Jain ,,ghaziabad,Pen Set,Stationery,1,146.32,0.0,Credit Card  ,4.0
+ORD1939,05-Jul-2025,Ankit Mishra,18.0,Delhi,Water Bottle,Accessories,2,658.16,5.0,Net Banking,5.0
+ORD1158,2025-07-04,Sachin Sharma  ,34.0,Greater Noida,Notebook Pack,Stationery,3,236.63,10.0,Cash,4.0
+ORD1630,26-Sep-2025,Nisha Chaudhary,31.0,Noida,water bottle,Accessories,4,552.58,5.0,Credit Card,5.0
+ORD1466,02 March 2025,Suresh Tiwari,31.0,Gurugram,Water Bottle,Accessories,3,600.88,5.0,Credit Card,3.0
+ORD1553,27-Apr-2025,Nisha Sharma,49.0,Gurugram,Smartphone,Electronics,1,19932.96,5.0,UPI,5.0
+ORD1825,03-Feb-2025,Anjali Chaudhary,47.0,Gurugram,Backpack,Accessories,2,1761.27,10.0,DEBIT CARD,2.0
+ORD1023,05-Dec-2025,Sachin Singh,62.0,Greater Noida,Notebook Pack,Stationery,4,264.15,0.0,Cash,3.0
+ORD1580,04 February 2025,Suresh Gupta,26.0,,Headphones,Electronics,2,2431.92,0.0,UPI,5.0
+ORD1128,29-Jul-2025,  Sneha Singh ,44.0,Ghaziabad,Notebook Pack,  Stationery ,5,234.47,0.0,Cash,5.0
+ORD1222,2025-09-14,Sachin Verma,25.0,Delhi,Laptop,Electronics,2,54950.88,10.0,UPI,
+ORD1480,16-Apr-2025,Manish Kumar,55.0,Gurugram,Water Bottle,Accessories,5,646.35,0.0,UPI,3.0
+ORD1731,02-Jun-2025,Meena Chaudhary,56.0,noida,Notebook Pack,Stationery,1,237.24,0.0,UPI,4.0
+ORD1478,31 August 2025,Rahul Mishra,55.0,Delhi,Notebook Pack,Stationery,3,257.8,0.0,Debit Card  ,5.0
+ORD1843,14 January 2025,Sneha Gupta,44.0,Delhi,Notebook Pack,Stationery  ,2,₹241.07,5.0,Net Banking,4.0
+ORD1344,27-Nov-2025,Manish Sharma,40.0,Greater Noida,Smartphone,Electronics,2,23407.49,5.0,UPI,4.0
+ORD1437,05-Dec-2025,DEEPAK SHARMA,31.0,  Greater Noida ,Smartphone,Electronics,1,24156.64,0.0,UPI,5.0
+ORD1694,2025-02-02,Manish Verma,48.0,  Ghaziabad ,Backpack,Accessories,1,1789.94,0.0,UPI,5.0
+ORD1971,02 June 2025,Sneha Kumar,51.0,  Noida ,Smartphone,Electronics,1,19810.6,0.0,UPI,4.0
+ORD1589,04-Nov-2025,Sachin Singh,53.0,Gurugram,Study Table,Furniture,-2,5412.48,10.0,UPI,4.0
+ORD1964,2025-12-13,Pooja Verma,24.0,Gurugram,Pen Set,Stationery,3,136.57,0.0,Cash,5.0
+ORD1568,23-Aug-2025,Vikas Tiwari,65.0,Delhi,Laptop,Electronics,2,54460.45,5.0,upi,4.0
+ORD1930,2025-07-16,Nisha Verma,35.0,Delhi,Water Bottle,Accessories,2,626.37,10.0,UPI,5.0
+ORD1513,2025-10-26,Anjali Verma,65.0,Ghaziabad,Water Bottle,Accessories,1,581.24,0.0,Debit Card,4.0
+ORD1663,15-Mar-2025,Neha Gupta,47.0,Gurugram,Smartphone,Electronics,2,20221.87,,Cash,4.0
+ORD1134,18 October 2025,Ankit Yadav,25.0,Delhi,Laptop,Electronics,1,57817.33,20.0,Credit Card,4.0
+ORD1598,2025-08-18,Priya Verma,60.0,Ghaziabad,Backpack,Accessories,4,1690.3,10.0,UPI,4.0
+ORD1015,2025-10-14,Sneha Sharma,38.0,Noida,Smartphone,Electronics,2,24043.88,0.0,UPI,5.0
+ORD1862,13 February 2025,Rohit Singh,57.0,Delhi,Notebook Pack,Stationery,2,273.08,5.0,,5.0
+ORD1159,2025-10-14,Anjali Gupta,27.0,Greater Noida,Office Chair,Furniture,2,7156.71,5.0,Cash,5.0
+ORD1837,14 March 2025,Ritu Mishra,61.0,Greater Noida,Notebook Pack,Stationery,2,248.95,10.0,UPI,2.0
+ORD1558,2025-10-17,Pooja Chaudhary,57.0,NOIDA,Notebook Pack,Stationery  ,3,233.17,0.0,Cash,4.0
+ORD1445,30 August 2025,Sneha Chaudhary,39.0,Ghaziabad,Headphones,Electronics,3,2318.01,5.0,UPI,5.0
+ORD1048,05-Sep-2025,Aman Chaudhary,53.0,Delhi,PEN SET,Stationery,3,147.96,10.0,Credit Card,3.0
+ORD1709,20-Jun-2025,Sneha Singh,29.0,Gurugram,Study Table,FURNITURE,4,₹6067.17,15.0,Net Banking  ,5.0
+ORD1074,2025-09-08,Sachin Mishra,23.0,Delhi,Backpack,  Accessories ,4,1754.54,10.0,UPI,4.0
+ORD1172,09-Oct-2025,Deepak Singh,29.0,Delhi,Water Bottle,Accessories,3,596.21,15.0,Debit Card,5.0
+ORD1872,11 February 2025,Meena Verma,21.0,Noida,Office Chair,Furniture  ,3,8228.45,10.0,Net Banking,5.0
+ORD1385,2025-02-14,Manish Tiwari,26.0,Delhi,Office Chair,FURNITURE,5,6926.22,15.0,upi,5.0
+ORD1603,2025-02-19,Priya Kumar,56.0,Greater Noida,Backpack,Accessories,2,1644.68,15.0,Debit Card,4.0
+ORD1220,2025-02-16,Pooja Yadav,39.0,Gurugram,Notebook Pack,Stationery,5,271.21,10.0,Net Banking,4.0
+ORD1621,24 June 2025,Vikas Tiwari,65.0,Greater Noida  ,  Smartphone ,Electronics,2,20240.46,10.0,,3.0
+ORD1954,2025-10-14,Manish Kumar,54.0,Ghaziabad,Headphones,Electronics,4,2445.96,0.0,UPI,4.0
+ORD1451,04 December 2025,Rahul Gupta,50.0,Lucknow,Headphones,Electronics,1,,0.0,Credit Card,2.0
+ORD1641,01-Dec-2025,POOJA TIWARI,23.0,Gurugram,Pen Set,Stationery,3,163.5,5.0,,5.0
+ORD1831,2025-03-29,Nisha Gupta,,Delhi,Notebook Pack,Stationery,1,247.93,0.0,UPI,5.0
+ORD1934,11-Jun-2025,Priya Sharma,37.0,Greater Noida,Headphones,electronics,5,2668.56,200.0,Credit Card,5.0
+ORD1722,05 November 2025,Neha Tiwari,24.0,,Backpack,Accessories,5,1757.15,15.0,UPI,4.0
+ORD1054,2025-07-01,Manish Chaudhary,,Noida,Laptop,Electronics,2,55668.55,5.0,Debit Card,4.0
+ORD1431,2025-09-27,  Sneha Mishra ,,Noida,Office Chair,Furniture,5,7894.78,0.0,Cash,5.0
+ORD1097,07 September 2025,Nisha Chaudhary  ,58.0,Gzb,Notebook Pack,Stationery,4,264.24,20.0,Credit Card,3.0
+ORD1321,2025-02-09,Meena Jain,22.0,Ghaziabad,Notebook Pack,Stationery,5,240.48,0.0,Credit Card,5.0
+ORD1347,2025-12-08,Suresh Gupta,42.0,Delhi,Pen Set,STATIONERY,1,150.94,5.0,Credit Card,3.0
+ORD1510,30 December 2025,Sneha Kumar,42.0,Lucknow  ,Pen Set,Stationery,2,145.31,5.0,UPI,4.0
+ORD1409,06-Jan-2025,Nisha Singh,40.0,Gzb,Headphones,Electronics,5,2622.35,0.0,UPI,4.0
+ORD1127,2025-10-07,Priya Jain  ,35.0,delhi,Smartphone,Electronics,1,22405.38,10.0,Credit Card,-1.0
+ORD1419,04-Jul-2025,pooja jain,57.0,Delhi,Notebook Pack,Stationery,1,253.79,5.0,UPI,4.0
+ORD1826,06 September 2025,Neha Verma,61.0,Gurugram,Office Chair,Furniture,4,6949.09,20.0,UPI,4.0
+ORD1365,09 July 2025,Karan Verma,36.0,Gzb,Water Bottle,Accessories,2,575.16,20.0,Net Banking,5.0
+ORD1455,22-Jul-2025,Rohit Yadav,59.0,Gurugram,Backpack,Accessories  ,2,1722.78,5.0,Credit Card,3.0
+ORD1237,2025-06-07,Rohit Kumar,24.0,New Delhi,Headphones,Electronics,3,2741.12,20.0,Debit Card,5.0
+ORD1502,18-Dec-2025,Neha Mishra,41.0,Ghaziabad,Smartphone  ,Electronics,2,21081.56,5.0,Credit Card,5.0
+ORD1412,12-Apr-2025,Karan Chaudhary,25.0,Gurugram,Water Bottle,Accessories,1,649.83,0.0,Credit Card,
+ORD1418,2025-04-19,Neha Gupta,19.0,Noida,Headphones,Electronics,3,2319.05,0.0,Net Banking,5.0
+ORD1080,2025-12-10,Suresh Sharma,,Noida,Notebook Pack,Stationery,4,238.29,5.0,NET BANKING,4.0
+ORD1534,30 July 2025,Ankit Kumar,32.0,Noida,Study Table,Furniture,4,6077.79,0.0,UPI,4.0
+ORD1659,16 April 2025,Nisha Yadav,36.0,Delhi,Pen Set,  Stationery ,2,147.35,10.0,Net Banking,1.0
+ORD1922,12 June 2025,Karan Yadav,30.0,Delhi,Study Table,Furniture,4,6213.44,0.0,Net Banking,3.0
+ORD1507,01 April 2025,Nisha Yadav,44.0,Delhi,Headphones,Electronics,4,2362.76,5.0,Cash,3.0
+ORD1242,2025-02-04,Sachin Chaudhary,22.0,Delhi,Backpack,Accessories,2,1759.7,5.0,Net Banking  ,5.0
+ORD1653,21 October 2025,Priya Verma,56.0,Ghaziabad,Smartphone,Electronics,1,,0.0,Debit Card,4.0
+ORD1119,11 February 2025,Rahul Gupta,59.0,Noida,Laptop,Electronics,1,54212.32,10.0,Credit Card,2.0
+ORD1503,13-Nov-2025,Karan Singh,48.0,Ghaziabad,Smartphone,Electronics,1,23668.1,,Credit Card,4.0
+ORD1810,17 January 2025,manish verma,49.0,Noida,Office Chair,Furniture  ,1,7568.0,10.0,UPI  ,2.0
+ORD1562,29-Jun-2025,Deepak Yadav,27.0,Lucknow,Headphones,Electronics,2,2295.92,15.0,UPI,2.0
+ORD1686,29 May 2025,Manish Jain,22.0,Gurugram,Office Chair,Furniture,5,6992.74,,Cash,
+ORD1027,28 October 2025,Pooja Mishra,29.0,gurugram,Water Bottle,Accessories,5,634.43,20.0,Debit Card,4.0
+ORD1887,12 March 2025,Ritu Mishra,38.0,Delhi,Headphones,Electronics,2,2467.41,10.0,UPI,1.0
+ORD1122,27-Aug-2025,Ankit Sharma,42.0,Lucknow,water bottle,Accessories,4,635.46,5.0,upi ,5.0
+ORD1780,2025-11-17,Pooja Yadav  ,37.0,Delhi,Office Chair,Furniture,2,7013.56,5.0,Credit Card,
+ORD1909,03-Feb-2025,KAVITA SINGH,18.0,Delhi,Pen Set,Stationery,5,157.39,5.0,Credit Card,5.0
+ORD1541,2025-01-21,Divya Mishra,33.0,Noida,Pen Set,Stationery,4,144.21,10.0,Net Banking,5.0
+ORD1652,2025-03-15,Rohit Mishra,28.0,Noida,Smartphone,Electronics,2,23628.11,5.0,UPI,5.0
+ORD1484,18 June 2025,Pooja Kumar,31.0,Noida,Smartphone  ,Electronics,2,24198.75,0.0,UPI,5.0
+ORD1945,13 February 2025,Suresh Gupta,37.0,Gurugram,Notebook Pack,Stationery,4,254.12,0.0,UPI,4.0
+ORD1345,04 April 2025,  Rohit Singh ,49.0,Noida,Backpack,Accessories,1,1806.73,5.0,UPI,5.0
+ORD1271,09-Jan-2025,Rahul Jain,21.0,Greater Noida,Notebook Pack,Stationery,4,259.6,10.0,Credit Card,5.0
+ORD1324,22 December 2025,Ritu Singh,64.0,Gurugram,Backpack,Accessories,2,1847.03,20.0,Cash,5.0
+ORD1384,2025-01-12,Priya Yadav,52.0,Ghaziabad,Headphones,Electronics,1,2496.62,0.0,Cash,3.0
+ORD1277,13-Oct-2025,Divya Sharma,19.0,Noida,Smartphone,Electronics,2,20961.75,0.0,NET BANKING,4.0
+ORD1849,10-Aug-2025,Neha Mishra,48.0,Noida,Smartphone,Electronics,2,20012.82,10.0,upi ,4.0
+ORD1882,2025-06-13,Kavita Chaudhary,64.0,Lucknow,Notebook Pack,Stationery,2,251.43,0.0,Net Banking,5.0
+ORD1671,2025-08-13,Rahul Sharma,42.0,Ghaziabad,Pen Set,Stationery,4,148.8,20.0,Credit Card,3.0
+ORD1693,12 December 2025,Suresh Mishra,31.0,  Ghaziabad ,Water Bottle,Accessories,4,631.59,5.0,  UPI ,5.0
+ORD1720,20-Feb-2025,Meena Mishra,42.0,Noida,Laptop,Electronics,1,52213.5,20.0,Cash,1.0
+ORD1147,27-Mar-2025,Sachin Chaudhary,51.0,Delhi,Notebook Pack,Stationery,2,256.01,,Net Banking,4.0
+ORD1983,2025-08-25,Divya Chaudhary,26.0,Noida,Headphones,Electronics,1,2304.16,0.0,Net Banking,4.0
+ORD1946,22 December 2025,Deepak Sharma,35.0,Noida,WATER BOTTLE,Accessories,5,563.44,20.0,Debit Card,4.0
+ORD1743,09 April 2025,Sachin Singh,40.0,Ghaziabad,Laptop,Electronics,1,60271.53,0.0,UPI,4.0
+ORD1051,13 March 2025,Sneha Tiwari,45.0,Lucknow,Smartphone,Electronics,2,20901.91,0.0,Net Banking,4.0
+ORD1854,16 April 2025,Ankit Gupta,61.0,Ghaziabad,Backpack,Accessories,2,1947.0,5.0,Cash,3.0
+ORD1360,2025-11-05,Vikas Yadav,61.0,Gurugram,Pen Set,Stationery,5,140.8,0.0,Net Banking,5.0
+ORD1022,2025-03-08,suresh yadav,58.0,Noida,Smartphone,Electronics,1,21569.01,0.0,UPI,3.0
+ORD1793,2025-10-29,Vikas Sharma,24.0,Noida,Headphones,Electronics,2,2434.57,5.0,Net Banking,3.0
+ORD1656,07-Oct-2025,Sachin Mishra,35.0,Delhi,Laptop,Electronics,1,56176.69,20.0,Credit Card,4.0
+ORD1900,2025-01-02,Neha Tiwari,41.0,Delhi,Study Table,  Furniture ,5,,0.0,Debit Card,5.0
+ORD1209,12-Oct-2025,Divya Singh,33.0,Noida,Notebook Pack,Stationery,4,237.86,5.0,Credit Card,3.0
+ORD1318,09 December 2025,Nisha Verma,54.0,Lucknow,Notebook Pack,Stationery  ,5,237.45,10.0,Net Banking,4.0
+ORD1142,11 April 2025,Meena Tiwari,,Greater Noida,LAPTOP,Electronics,2,55243.56,5.0,Credit Card,1.0
+ORD1050,2025-10-05,Vikas Verma,54.0,Greater Noida,Notebook Pack,Stationery  ,1,270.29,5.0,net banking,3.0
+ORD1166,2025-04-28,Pooja Chaudhary,56.0,Greater Noida,Backpack,Accessories,5,1708.55,5.0,UPI,4.0
+ORD1903,19-Nov-2025,Divya Chaudhary,65.0,Delhi,Headphones,Electronics,4,2408.78,0.0,Cash,
+ORD1551,2025-05-24,Ankit Yadav,48.0,Delhi,Smartphone,Electronics,1,21400.43,15.0,UPI,5.0
+ORD1081,2025-06-09,Nisha Mishra  ,59.0,Noida,notebook pack,  Stationery ,5,237.94,5.0,UPI,5.0
+ORD1372,30-May-2025,Suresh Sharma,52.0,Lucknow,Water Bottle,Accessories,2,551.46,10.0,Credit Card,4.0
+ORD1717,2025-06-29,Rohit Singh  ,20.0,Delhi,Notebook Pack,Stationery,2,273.45,5.0,UPI,
+ORD1937,24 February 2025,Meena Verma,44.0,Gurugram,Notebook Pack,Stationery,3,257.32,0.0,,3.0
+ORD1066,27 November 2025,Divya Mishra,21.0,Gurugram,Pen Set,Stationery,4,139.61,10.0,Cash  ,4.0
+ORD1853,29 March 2025,Karan Singh,36.0,Ghaziabad,Headphones,Electronics  ,5,2426.74,5.0,Credit Card,3.0
+ORD1685,2025-10-20,Anjali Mishra,31.0,Lucknow,backpack,Accessories,1,1909.62,10.0,UPI,4.0
+ORD1289,2025-06-22,Pooja Tiwari,23.0,Delhi,Notebook Pack,Stationery,3,250.3,5.0,Cash,4.0
+ORD1316,2025-09-24,,57.0,Gurugram,Backpack,Accessories,-1,1891.57,15.0,Cash,5.0
+ORD1812,07 September 2025,Priya Tiwari,33.0,Delhi,Notebook Pack,Stationery,2,245.14,0.0,Debit Card,4.0
+ORD1283,29 June 2025,Deepak Chaudhary,51.0,Gurugram,Notebook Pack,Stationery,2,266.92,5.0,Debit Card,5.0
+ORD1680,2025-09-22,Meena Yadav,51.0,Ghaziabad,Pen Set,Stationery,1,139.15,0.0,Cash,
+ORD1494,16 April 2025,Pooja Mishra,25.0,Ghaziabad,Water Bottle,Accessories,1,625.76,0.0,UPI,3.0
+ORD1064,30 May 2025,Aman Chaudhary,18.0,Gurugram,Pen Set,Stationery,3,162.75,20.0,Net Banking,5.0
+ORD1674,2025-08-15,Neha Kumar,28.0,GHAZIABAD,Notebook Pack,Stationery,2,246.82,5.0,UPI,4.0
+ORD1264,28-Dec-2025,Anjali Chaudhary,23.0,Delhi,Water Bottle,Accessories,5,587.13,0.0,UPI,4.0
+ORD1863,2025-10-09,Pooja Yadav,44.0,Noida,Laptop,Electronics,2,56632.47,20.0,Credit Card,2.0
+ORD1564,21-Nov-2025,Manish Sharma,45.0,Gurugram,Headphones,Electronics,4,2472.8,0.0,UPI,5.0
+ORD1531,02-Mar-2025,Aman Yadav  ,22.0,ghaziabad,Pen Set,Stationery,4,143.79,0.0,UPI,2.0
+ORD1020,2025-07-02,anjali verma,27.0,Delhi,Backpack,Accessories,1,1655.2,5.0,Credit Card,3.0
+ORD1526,2025-12-04,Aman Verma,59.0,Delhi,Water Bottle,Accessories,3,620.87,0.0,Credit Card,5.0
+ORD1799,2025-06-11,Anjali Tiwari,40.0,NOIDA,Office Chair,Furniture,3,7764.23,0.0,UPI,1.0
+ORD1725,12 February 2025,Sachin Yadav,64.0,  Lucknow ,Backpack,Accessories,2,1779.69,10.0,Cash,4.0
+ORD1296,07-Nov-2025,Rohit Chaudhary,36.0,Greater Noida,Laptop,Electronics,1,54403.06,0.0,UPI,5.0
+ORD1467,06-Aug-2025,Deepak Tiwari,18.0,Noida,Smartphone,Electronics,2,22633.98,100.0,UPI,2.0
+ORD1556,2025-09-26,Nisha Tiwari,37.0,Noida,Water Bottle,Accessories,5,595.65,5.0,UPI,5.0
+ORD1261,04-Mar-2025,Karan Sharma,63.0,Noida,Smartphone,Electronics,1,22028.48,0.0,UPI,3.0
+ORD1985,2025-08-27,Manish Jain,65.0,Gurugram,  Laptop ,  Electronics ,1,55520.61,10.0,Credit Card,3.0
+ORD1679,08 December 2025,Pooja Kumar,49.0,Delhi,Headphones,ELECTRONICS,2,2706.35,20.0,Credit Card,3.0
+ORD1525,2025-04-24,Aman Sharma,42.0,  Ghaziabad ,Headphones,Electronics,5,2346.06,0.0,,4.0
+ORD1357,22 November 2025,Neha Kumar,58.0,Delhi,  Backpack ,Accessories,1,1877.8,0.0,Credit Card,3.0
+ORD1595,20-Oct-2025,Ritu Singh,49.0,Greater Noida,OFFICE CHAIR,Furniture,5,7135.71,15.0,Debit Card,5.0
+ORD1515,2025-02-08,Kavita Chaudhary,42.0,Greater Noida,Smartphone,Electronics,1,20524.71,0.0,UPI,4.0
+ORD1857,21-Jan-2025,Aman Chaudhary,,Noida,Notebook Pack,Stationery,3,Rs. 250.08,10.0,Credit Card,5.0
+ORD1188,2025-03-29,Sneha Verma,62.0,Noida,Pen Set,Stationery,3,152.9,5.0,Debit Card,2.0
+ORD1251,2025-06-30,Rohit Sharma,21.0,Gurugram,HEADPHONES,Electronics,5,"Rs. 2,532.66",0.0,UPI,4.0
+ORD1071,2025-03-11,Rohit Singh,58.0,Noida,backpack,Accessories,3,1924.45,5.0,Net Banking,5.0
+ORD1433,2025-02-17,Rohit Chaudhary,42.0,Delhi,Pen Set,Stationery,4,Rs. 154.62,5.0,Debit Card,5.0
+ORD1765,12-Oct-2025,Rohit Chaudhary,28.0,delhi,Backpack,Accessories,1,1704.01,0.0,UPI,5.0
+ORD1547,04 August 2025,Rohit Gupta,29.0,Delhi,Pen Set,Stationery,1,157.98,10.0,UPI,5.0
+ORD1411,25-Mar-2025,Neha Kumar,43.0,Noida,Backpack,Accessories,4,1942.66,0.0,UPI,4.0
+ORD1395,16-Nov-2025,Manish Chaudhary,56.0,Gurugram,Backpack,Accessories,4,1772.25,15.0,Net Banking,4.0
+ORD1994,2025-07-13,Ritu Yadav,49.0,Gurugram,Study Table,Furniture,3,6061.72,20.0,Cash,5.0
+ORD1649,06 November 2025,Nisha Jain,36.0,Delhi,Backpack,Accessories,5,"Rs. 1,810.33",0.0,UPI,4.0
+ORD1967,26 April 2025,rohit singh,64.0,Gurugram,Headphones,Electronics,5,2493.76,0.0,UPI,4.0
+ORD1452,02 July 2025,Divya Kumar,34.0,Greater Noida,Headphones,Electronics,3,2454.26,15.0,UPI,3.0
+ORD1330,19-Jul-2025,Divya Gupta,20.0,Noida,Notebook Pack,Stationery,5,231.88,5.0,UPI,4.0
+ORD1632,08-Jun-2025,Divya Mishra,57.0,Greater Noida,Smartphone,Electronics,1,20544.92,15.0,UPI,5.0
+ORD1582,2025-02-08,Rohit Chaudhary,50.0,  Greater Noida ,Water Bottle,Accessories,5,555.38,20.0,Cash,5.0
+ORD1713,06 October 2025,RITU SINGH,58.0,Delhi,Office Chair,Furniture,4,8023.73,0.0,Credit Card,4.0
+ORD1509,2025-03-28,Rahul Kumar,47.0,Noida,notebook pack,Stationery,3,271.1,5.0,UPI,4.0
+ORD1842,28-Nov-2025,Meena Tiwari,33.0,Lucknow,Notebook Pack,Stationery,5,269.91,0.0,Cash  ,4.0
+ORD1508,2025-04-09,Manish Chaudhary,20.0,Delhi,Pen Set,Stationery,1,151.49,10.0,UPI,4.0
+ORD1706,03 January 2025,Karan Sharma,25.0,Gurugram,Notebook Pack,Stationery,4,265.64,0.0,Credit Card,5.0
+ORD1435,2025-02-15,Sneha Verma,52.0,Noida,headphones,Electronics,3,2740.01,0.0,UPI,5.0
+ORD1544,31-Oct-2025,Neha Kumar,30.0,Noida,Laptop,Electronics,2,52599.44,5.0,Debit Card,4.0
+ORD1207,20 December 2025,Meena Verma,25.0,Lucknow,Pen Set,Stationery,4,139.61,10.0,Credit Card,4.0
+ORD1989,15-Oct-2025,Nisha Chaudhary,55.0,Delhi,Notebook Pack,Stationery,4,242.13,5.0,Net Banking,4.0
+ORD1218,13 June 2025,Sneha Tiwari,36.0,  Gurugram ,Pen Set,stationery,2,160.79,10.0,UPI,3.0
+ORD1239,17 August 2025,Nisha Verma,59.0,Noida,Study Table,Furniture  ,3,6213.61,0.0,UPI,4.0
+ORD1838,06 January 2025,Neha Kumar  ,62.0,Noida,Backpack,Accessories,5,1902.07,20.0,Cash,4.0
+ORD1355,29 December 2025,Priya Sharma,65.0,Lucknow,Notebook Pack,Stationery,2,236.01,5.0,net banking,4.0
+ORD1760,2025-03-06,Ritu Yadav,19.0,GHAZIABAD,LAPTOP,Electronics,1,59800.96,5.0,Credit Card,1.0
+ORD1192,10 August 2025,VIKAS CHAUDHARY,21.0,Gurugram,Headphones,Electronics,4,2543.91,0.0,UPI,
+ORD1280,2025-04-11,Kavita Singh,31.0,Gurugram,Headphones,Electronics,2,2644.78,0.0,Cash,4.0
+ORD1191,19 August 2025,Sneha Verma,55.0,,Backpack,Accessories,3,1753.82,0.0,Credit Card,3.0
+ORD1695,03-Apr-2025,Pooja Singh,44.0,Gurugram,Headphones,Electronics,5,2466.29,0.0,Net Banking,2.0
+ORD1591,26-Nov-2025,Deepak Verma,,Gurugram,Pen Set,Stationery,1,136.44,5.0,  Cash ,4.0
+ORD1408,08-Dec-2025,Nisha Tiwari,53.0,Delhi,Headphones,Electronics,5,2406.94,5.0,Credit Card,5.0
+ORD1132,03 February 2025,Suresh Sharma,51.0,Ghaziabad,Laptop,Electronics,1,₹57482.71,0.0,Cash,5.0
+ORD1374,20 November 2025,Rohit Chaudhary,56.0,Greater Noida,Pen Set,Stationery,5,149.51,20.0,UPI,
+ORD1403,21-Dec-2025,Divya Jain,27.0,Ghaziabad,Notebook Pack,Stationery,5,255.93,0.0,UPI,5.0
+ORD1252,10 March 2025,Rohit Kumar,54.0,Lucknow,Headphones,Electronics,5,2364.04,0.0,UPI,5.0
+ORD1700,2025-07-09,Neha Sharma,43.0,Delhi,Notebook Pack,Stationery,5,235.38,0.0,Debit Card,5.0
+ORD1790,04-Feb-2025,Aman Yadav,23.0,Delhi,Notebook Pack  ,Stationery,5,₹236.45,0.0,Debit Card,2.0
+ORD1263,04-Dec-2025,Karan Tiwari,42.0,Gurugram,Smartphone,Electronics,2,₹20493.45,0.0,Cash,4.0
+ORD1070,18-Oct-2025,Priya Singh,21.0,Ghaziabad,headphones,Electronics  ,3,2587.1,0.0,Cash,3.0
+ORD1272,25-Feb-2025,Meena Singh,30.0,Gzb,Notebook Pack,Stationery,1,265.63,5.0,upi,5.0
+ORD1452,02 July 2025,Divya Kumar,34.0,Greater Noida,Headphones,Electronics,3,2454.26,15.0,UPI,3.0
+ORD1327,14 January 2025,Ritu Sharma,19.0,Delhi,Headphones,Electronics,4,2360.78,0.0,Credit Card,
+ORD1115,27 July 2025,ROHIT GUPTA,,Greater Noida,Pen Set,  Stationery ,1,150.65,5.0,Net Banking,2.0
+ORD1323,2025-12-01,,20.0,Gurugram,Pen Set,Stationery,3,137.65,0.0,Credit Card,4.0
+ORD1997,12 May 2025,Karan Chaudhary,57.0,Ghaziabad,Notebook Pack,Stationery,5,225.96,0.0,Cash,5.0
+ORD1732,03-Dec-2025,Aman Chaudhary,45.0,Delhi,Headphones,Electronics,4,2704.9,10.0,Debit Card,5.0
+ORD1397,2025-03-13,Deepak Verma,47.0,  Delhi ,headphones,Electronics,3,2253.67,0.0,Net Banking,3.0
+ORD1457,2025-08-20,Anjali Mishra,34.0,Noida,Notebook Pack,Stationery,5,273.88,5.0,UPI,3.0
+ORD1886,2025-01-20,Divya Mishra,42.0,Delhi,Pen Set,Stationery,5,154.27,5.0,Credit Card,4.0
+ORD1804,2025-09-27,Meena Yadav,49.0,  Delhi ,Backpack,Accessories,5,1729.65,5.0,Credit Card,4.0
+ORD1487,13 July 2025,Vikas Sharma,36.0,Lucknow,Laptop,Electronics,1,50826.35,5.0,UPI,5.0
+ORD1925,12 December 2025,Meena Yadav,61.0,Noida,Office Chair,Furniture,4,8008.32,20.0,UPI,5.0
+ORD1586,09-Sep-2025,Meena Yadav,44.0,Delhi,Pen Set,Stationery,2,162.31,5.0,Credit Card,4.0
+ORD1914,05 August 2025,Nisha Mishra,47.0,Lucknow,Smartphone,Electronics,2,21142.29,0.0,DEBIT CARD,5.0
+ORD1635,08 September 2025,Sneha Chaudhary,35.0,Gurugram,Headphones,Electronics,3,2278.53,10.0,upi ,4.0
+ORD1278,2025-01-24,Ritu Kumar,57.0,,Pen Set,Stationery,1,157.7,0.0,Credit Card,1.0
+ORD1910,09 October 2025,Aman Jain,22.0,Ghaziabad,Backpack,Accessories,5,1635.6,0.0,UPI,4.0
+ORD1684,03-Mar-2025,Rohit Kumar,62.0,,Smartphone,Electronics,1,23719.43,10.0,Net Banking,3.0
+ORD1002,27 August 2025,  Meena Sharma ,63.0,Delhi,Water Bottle,Accessories,2,,0.0,UPI,3.0
+ORD1229,2025-03-06,Anjali Chaudhary,33.0,Ghaziabad  ,  Notebook Pack ,Stationery,4,257.05,10.0,UPI,5.0
+ORD1615,22 August 2025,Deepak Singh,21.0,Gurugram,Laptop,Electronics,1,57257.91,15.0,Credit Card,2.0
+ORD1962,03 November 2025,Meena Singh,42.0,Gurugram,Smartphone  ,Electronics,2,20284.99,20.0,UPI,2.0
+ORD1782,2025-02-14,Divya Jain,27.0,Gurugram,Study Table,Furniture,2,5432.57,15.0,Debit Card,5.0
+ORD1889,09 April 2025,Pooja Kumar,23.0,Noida,Laptop  ,Electronics,2,58922.77,0.0,Debit Card,3.0
+ORD1447,15 December 2025,Sneha Tiwari,,NOIDA,Backpack,Accessories,1,1718.26,5.0,Debit Card,2.0
+ORD1199,18-Dec-2025,Sachin Singh,64.0,Gzb,Headphones,Electronics,4,2743.35,0.0,Debit Card,4.0
+ORD1371,2025-08-30,Sachin Yadav,,Gurugram,Laptop,Electronics,1,57054.29,20.0,Credit Card,4.0
+ORD1958,2025-12-21,Pooja Gupta,,Noida,Water Bottle,Accessories,4,₹580.21,10.0,Net Banking,5.0
+ORD1801,2025-04-21,Divya Kumar,63.0,Ghaziabad,Notebook Pack,Stationery,5,241.87,0.0,Debit Card,
+ORD1065,2025-04-29,Nisha Sharma,58.0,Ghaziabad,Pen Set,Stationery,2,151.51,0.0,Debit Card,4.0
+ORD1307,2025-07-22,Meena Kumar,32.0,Delhi,Smartphone,Electronics,1,21108.25,0.0,,2.0
+ORD1040,02-Mar-2025,Neha Yadav,25.0,Delhi,Water Bottle,Accessories,1,635.59,0.0,Cash,4.0
+ORD1881,2025-11-07,Pooja Chaudhary,65.0,Delhi,Laptop,ELECTRONICS,1,56457.59,5.0,Net Banking,4.0
+ORD1993,07 June 2025,Priya Chaudhary,27.0,Delhi,Pen Set,Stationery,3,139.59,20.0,Net Banking,5.0
+ORD1733,2025-10-10,Priya Gupta,56.0,Noida,Pen Set,Stationery,4,161.43,5.0,UPI,5.0
+ORD1471,2025-10-21,Kavita Chaudhary,38.0,Delhi  ,Laptop,Electronics,1,58769.14,10.0,UPI,4.0
+ORD1683,2025-12-16,Sneha Kumar,58.0,Ghaziabad,Smartphone,Electronics,2,21514.0,0.0,Credit Card,5.0
+ORD1981,14 September 2025,Anjali Singh,38.0,Ghaziabad,  Laptop ,Electronics,1,53177.58,0.0,UPI,
+ORD1587,06 February 2025,Deepak Mishra,31.0,Gurugram,Pen Set,Stationery,2,Rs. 136.41,10.0,debit card,3.0
+ORD1273,2025-12-16,Rahul Yadav,32.0,Delhi  ,Backpack,Accessories,5,1804.02,0.0,Debit Card,5.0
+ORD1723,13-Feb-2025,Pooja Chaudhary,39.0,Gurugram,Pen Set,Stationery,3,138.54,20.0,Credit Card,4.0
+ORD1926,17-Jul-2025,Suresh Mishra  ,27.0,Lucknow,Smartphone,Electronics,1,24080.48,10.0,Net Banking,5.0
+ORD1668,02 December 2025,Deepak Kumar,38.0,Delhi,backpack,Accessories,3,1749.31,0.0,Credit Card,
+ORD1952,2025-08-13,Pooja Chaudhary,64.0,Delhi,Backpack,accessories,5,1861.93,10.0,,5.0
+ORD1177,28-Feb-2025,Divya Chaudhary,26.0,Gurugram,Notebook Pack,Stationery,1,229.66,15.0,UPI,5.0
+ORD1300,2025-05-13,Sneha Kumar,,lucknow,Pen Set,Stationery,4,138.9,5.0,UPI,3.0
+ORD1037,30-Oct-2025,Suresh Gupta,28.0,DELHI,Smartphone,Electronics,2,21261.52,0.0,UPI,2.0
+ORD1353,08 June 2025,Rahul Chaudhary,21.0,Delhi,Water Bottle,Accessories,3,602.63,0.0,UPI,3.0
+ORD1202,30 June 2025,Kavita Gupta,59.0,New Delhi,Smartphone,Electronics  ,1,20481.93,0.0,Debit Card  ,5.0
+ORD1236,31 August 2025,Pooja Yadav,33.0,Delhi,Headphones,Electronics,2,,0.0,UPI,5.0
+ORD1149,22 January 2025,  Vikas Sharma ,64.0,Delhi,Laptop,Electronics,2,55302.99,0.0,UPI,3.0
+ORD1217,2025-02-05,Vikas Chaudhary,40.0,Ghaziabad,Smartphone,  Electronics ,1,21530.3,10.0,,3.0
+ORD1702,2025-03-03,Manish Singh,27.0,Greater Noida,Backpack,Accessories,3,1676.69,5.0,Debit Card,4.0
+ORD1810,17 January 2025,manish verma,49.0,Noida,Office Chair,Furniture  ,1,7568.0,10.0,UPI  ,2.0
+ORD1571,2025-06-01,rohit jain,26.0,Ghaziabad,Notebook Pack  ,Stationery,2,226.18,0.0,upi,
+ORD1736,24-Sep-2025,Ritu Kumar,36.0,,Headphones,  Electronics ,4,"Rs. 2,512.55",5.0,Net Banking,5.0
+ORD1935,2025-12-10,Vikas Gupta,44.0,Gurugram,Water Bottle,Accessories,4,625.83,20.0,UPI,5.0
+ORD1302,04-Jan-2025,Sachin Singh,25.0,Noida,Backpack,Accessories,5,1870.03,-10.0,Net Banking,4.0
+ORD1888,06 January 2025,Manish Yadav,39.0,  Delhi ,Water Bottle,accessories,1,₹639.71,10.0,Net Banking,2.0
+ORD1368,09-Jan-2025,Sachin Kumar,39.0,Noida,Smartphone,Electronics,1,22325.53,0.0,UPI,5.0
+ORD1696,21 September 2025,Nisha Tiwari,27.0,Noida,Headphones,Electronics,2,2601.91,0.0,Net Banking,3.0
+ORD1957,20 August 2025,Vikas Jain,30.0,Ghaziabad,study table,Furniture,5,5426.37,20.0,UPI,4.0
+ORD1388,2025-11-22,Ritu Gupta,50.0,Delhi,Smartphone,Electronics,1,20113.14,20.0,UPI,4.0
+ORD1459,08-Feb-2025,Suresh Jain,34.0,Ghaziabad,notebook pack,STATIONERY,50,253.35,0.0,Credit Card,3.0
+ORD1422,07-Oct-2025,manish tiwari,46.0,Delhi,Notebook Pack,Stationery,2,₹241.71,,Cash,4.0
+ORD1387,2025-10-31,Vikas Sharma,39.0,Delhi,Smartphone,ELECTRONICS,2,22876.79,0.0,Credit Card,3.0
+ORD1798,26 April 2025,Deepak Kumar,33.0,Ghaziabad,Pen Set,Stationery,1,143.15,0.0,Credit Card,5.0
+ORD1390,30-Sep-2025,Nisha Singh,55.0,Delhi,Headphones,Electronics,4,2266.38,10.0,UPI,4.0
+ORD1472,07 June 2025,Karan Mishra,46.0,Noida,Smartphone,Electronics,1,23010.6,5.0,  Credit Card ,4.0
+ORD1352,2025-04-20,Rohit Tiwari,25.0,Noida,Backpack,ACCESSORIES,5,1652.53,5.0,UPI,5.0
+ORD1193,13-May-2025,Ankit Chaudhary,54.0,lucknow,Headphones,Electronics,2,₹2657.52,0.0,Debit Card,4.0
+ORD1235,20 September 2025,Sachin Verma,59.0,Delhi,Pen Set,Stationery,3,Rs. 157.05,10.0,UPI,4.0
+ORD1482,02 April 2025,Manish Chaudhary,50.0,Noida  ,Pen Set,Stationery,4,,0.0,UPI,3.0
+ORD1865,2025-09-12,Suresh Tiwari,59.0,Gzb,Notebook Pack,Stationery,5,239.96,0.0,Net Banking,3.0
+ORD1055,16 January 2025,Rohit Chaudhary,58.0,Noida,HEADPHONES,Electronics,3,2313.61,0.0,UPI,5.0
+ORD1116,14-Jan-2025,Pooja Verma,31.0,Delhi,Pen Set,Stationery,2,140.42,0.0,Cash,4.0
+ORD1096,29 March 2025,Manish Tiwari,45.0,Noida,Pen Set,Stationery,2,139.55,0.0,Cash,3.0
+ORD1141,20-Mar-2025,Karan Kumar,64.0,NOIDA,  Backpack ,Accessories,5,1659.9,10.0,UPI,5.0
+ORD1724,14 October 2025,Sachin Sharma,43.0,Ghaziabad,Smartphone,  Electronics ,2,23752.71,10.0,Debit Card,4.0
+ORD1892,10 July 2025,Anjali Jain,48.0,Noida,Smartphone,Electronics,1,22364.24,5.0,Cash,5.0
+ORD1565,28 March 2025,Manish Yadav,27.0,Delhi,Water Bottle,Accessories,4,561.39,10.0,,
+ORD1866,27-Oct-2025,Rahul Kumar,60.0,Delhi,Headphones,Electronics,1,2470.0,0.0,Debit Card,5.0
+ORD1796,20 December 2025,Rohit Singh,40.0,Delhi,Smartphone,Electronics,2,22131.25,10.0,Net Banking,2.0
+ORD1120,10 June 2025,Neha Kumar,31.0,Gzb,pen set,Stationery,2,137.07,10.0,UPI,5.0
+ORD1877,29-Sep-2025,Pooja Sharma,33.0,Gzb,Backpack,Accessories,3,1631.13,20.0,Debit Card,3.0
+ORD1739,24-Nov-2025,Ankit Singh,38.0,Greater Noida,Smartphone,Electronics,1,22805.43,0.0,UPI,4.0
+ORD1062,14-May-2025,Deepak Tiwari,46.0,Delhi,Backpack,Accessories,2,1657.01,,UPI,3.0
+ORD1786,2025-01-12,Divya Mishra,39.0,  Greater Noida ,Office Chair,Furniture,3,7542.86,,UPI,1.0
+ORD1498,05 December 2025,Sachin Gupta,22.0,Delhi,Water Bottle,Accessories,4,562.76,20.0,Net Banking,5.0
+ORD1453,10 January 2025,Rohit Sharma,49.0,Delhi,Smartphone,Electronics,1,19953.63,0.0,UPI,3.0
+ORD1757,2025-05-20,Neha Gupta,,Noida,Backpack,Accessories,5,1766.61,10.0,Net Banking,5.0
+ORD1414,07-Jan-2025,Neha Mishra,53.0,Gzb,Water Bottle,Accessories,2,633.4,10.0,UPI,4.0
+ORD1003,10 June 2025,Manish Verma,51.0,  Delhi ,Notebook Pack,Stationery,2,269.14,10.0,UPI,
+ORD1058,29 September 2025,Ankit Tiwari,60.0,Delhi,NOTEBOOK PACK,Stationery,4,228.59,15.0,UPI,5.0
+ORD1223,15 March 2025,Ankit Singh  ,35.0,,Water Bottle,Accessories,5,569.34,15.0,Credit Card,3.0
+ORD1788,2025-07-18,Pooja Sharma,44.0,Lucknow,Study Table,Furniture,3,5432.74,0.0,Net Banking,4.0
+ORD1101,14-Mar-2025,ANKIT MISHRA,65.0,Ghaziabad,Pen Set,Stationery,3,,0.0,Net Banking,
+ORD1747,25 April 2025,Divya Mishra,58.0,GURUGRAM,Headphones,Electronics,1,2653.08,5.0,UPI,
+ORD1221,2025-06-16,Sachin Gupta,60.0,Delhi  ,Study Table,Furniture,2,6502.4,0.0,Debit Card,5.0
+ORD1773,2025-09-19,,,Greater Noida,Notebook Pack,Stationery,2,258.33,10.0,UPI,5.0
+ORD1004,08 June 2025,Rahul Singh,24.0,Ghaziabad,  Notebook Pack ,Stationery,5,238.67,0.0,Debit Card,2.0
+ORD1465,19-Dec-2025,Manish Yadav,21.0,Lucknow,Notebook Pack,Stationery,2,245.76,20.0,Credit Card,4.0
+ORD1052,2025-05-13,Sachin Singh,27.0,Ghaziabad,Smartphone,Electronics,1,23583.87,,Cash,4.0
+ORD1017,16 February 2025,Aman Mishra,56.0,Delhi,Pen Set,Stationery,5,141.24,5.0,UPI,5.0
+ORD1485,2025-03-26,Kavita Tiwari,60.0,Gurugram,Water Bottle,Accessories,2,566.51,5.0,Credit Card,3.0
+ORD1771,2025-12-27,Aman Yadav,35.0,Ghaziabad,Office Chair,Furniture,3,7652.79,20.0,Debit Card,4.0
+ORD1941,28 May 2025,Neha Verma,34.0,Delhi,Laptop,Electronics,1,54589.83,0.0,UPI,
+ORD1306,21-Apr-2025,  Karan Tiwari ,54.0,Noida,Pen Set,stationery,1,140.29,0.0,UPI,3.0
+ORD1689,13 October 2025,Rahul Jain,58.0,Ghaziabad,Pen Set,Stationery  ,2,152.93,0.0,Credit Card,3.0
+ORD1155,2025-08-30,Ankit Gupta,39.0,Noida,Headphones,Electronics,4,2417.18,0.0,Cash,5.0
+ORD1864,2025-11-05,Rahul Chaudhary,50.0,Noida  ,Notebook Pack,Stationery,2,225.36,15.0,UPI,
+ORD1318,09 December 2025,Nisha Verma,54.0,Lucknow,Notebook Pack,Stationery  ,5,237.45,10.0,Net Banking,4.0
+ORD1664,07-Aug-2025,Suresh Gupta,52.0,Noida,Smartphone,Electronics,2,23026.1,15.0,UPI,4.0
+ORD1248,15 October 2025,NISHA MISHRA,33.0,Greater Noida,Pen Set,Stationery,3,143.55,0.0,Credit Card,5.0
+ORD1249,16-Jan-2025,Sneha Gupta,34.0,Greater Noida,Backpack,Accessories,4,1661.34,5.0,Net Banking,4.0
+ORD1358,03 February 2025,Kavita Gupta,47.0,Noida,Office Chair,Furniture,1,6978.7,0.0,UPI,5.0
+ORD1777,13 February 2025,Sneha Chaudhary,44.0,Ghaziabad,Smartphone,Electronics,2,22916.16,,UPI,5.0
+ORD1493,09 August 2025,Deepak Tiwari,28.0,Delhi,Headphones,Electronics,2,2368.95,20.0,Net Banking,3.0
+ORD1430,31 January 2025,Divya Kumar,23.0,Delhi,  Headphones ,Electronics,4,2507.87,15.0,UPI,4.0
+ORD1441,20 April 2025,Suresh Jain,29.0,Ghaziabad,Backpack,Accessories,3,1851.75,15.0,Debit Card,3.0
+ORD1929,30-Jul-2025,AMAN YADAV,44.0,,Study Table,Furniture,3,6330.79,10.0,Cash,4.0
+ORD1878,2025-07-20,Priya Kumar,51.0,Greater Noida,Notebook Pack,Stationery,3,244.25,0.0,,4.0
+ORD1030,2025-06-14,Anjali Yadav,60.0,Noida,PEN SET,Stationery,3,146.48,20.0,CASH,4.0
+ORD1619,21 February 2025,Ritu Kumar,,Ghaziabad,Backpack,Accessories,2,1817.81,0.0,Credit Card,3.0
+ORD1281,2025-06-27,Rohit Jain,39.0,Noida  ,Water Bottle  ,Accessories,2,577.24,20.0,Credit Card,4.0
+ORD1701,13-Aug-2025,Vikas Yadav,18.0,Gurugram,Notebook Pack,Stationery,1,257.45,,Credit Card,5.0
+ORD1507,01 April 2025,Nisha Yadav,44.0,Delhi,Headphones,Electronics,4,2362.76,5.0,Cash,3.0
+ORD1117,2025-02-21,  Suresh Sharma ,37.0,Delhi,Headphones,Electronics,4,2266.3,0.0,UPI,
+ORD1540,16 September 2025,Nisha Verma,36.0,Delhi,Smartphone,Electronics,2,21131.72,20.0,UPI,5.0
+ORD1691,18-Oct-2025,Rohit Chaudhary,59.0,Lucknow,Office Chair,Furniture,3,6976.38,10.0,Net Banking,4.0
+ORD1291,08-Apr-2025,Divya Singh  ,60.0,Ghaziabad,Study Table,  Furniture ,4,5585.33,0.0,Net Banking,3.0
+ORD1381,08-Dec-2025,Ankit Jain,64.0,Gurugram,Notebook Pack,Stationery,5,251.82,5.0,Net Banking,3.0
+ORD1618,23 January 2025,Ritu Chaudhary,56.0,New Delhi,headphones,Electronics  ,3,2374.09,5.0,UPI,4.0
+ORD1200,14 May 2025,Pooja Yadav,65.0,Noida,Headphones,Electronics,1,2715.62,0.0,Debit Card,
+ORD1740,26 October 2025,Ritu Sharma,57.0,Delhi,Backpack,Accessories,3,1939.58,5.0,UPI,5.0
+ORD1936,27 February 2025,suresh sharma,46.0,Ghaziabad,Headphones,Electronics,5,2601.53,20.0,UPI,5.0
+ORD1505,15 June 2025,Neha Chaudhary,60.0,Gurugram,Office Chair,Furniture,2,8093.6,0.0,UPI,3.0
+ORD1792,21-Sep-2025,Nisha Singh,33.0,Ghaziabad,Notebook Pack,Stationery,1,273.12,0.0,UPI,5.0
+ORD1340,2025-08-20,Deepak Jain,,Lucknow,Laptop,Electronics,1,59560.59,10.0,UPI,5.0
+ORD1154,08-Jun-2025,Rahul Gupta,58.0,Delhi,Backpack,  Accessories ,5,1953.43,0.0,UPI,1.0
+ORD1890,06-Feb-2025,Ritu Tiwari,29.0,Greater Noida,Water Bottle,Accessories,4,592.58,0.0,UPI,
+ORD1578,23 November 2025,Nisha Verma,39.0,Noida,Notebook Pack,STATIONERY,1,256.08,10.0,UPI,4.0
+ORD1754,2025-07-22,Pooja Sharma,36.0,Ghaziabad,Smartphone,Electronics,1,22980.79,0.0,UPI,5.0
+ORD1814,2025-10-11,Deepak Singh,34.0,delhi,Laptop,Electronics,1,57118.09,0.0,Net Banking,4.0
+ORD1322,13-Aug-2025,,31.0,Lucknow,Headphones,Electronics,4,2421.91,0.0,UPI,5.0
+ORD1624,09-Aug-2025,,31.0,Delhi,Study Table,Furniture,1,5634.17,10.0,UPI,3.0
+ORD1744,2025-10-18,Sachin Tiwari,59.0,Noida,Office Chair,Furniture,3,6986.02,0.0,Debit Card,4.0
+ORD1082,28-Feb-2025,Pooja Gupta,26.0,New Delhi,Smartphone,Electronics,2,22135.18,20.0,  UPI ,4.0
+ORD1977,2025-07-28,Deepak Singh,50.0,Noida  ,Water Bottle,Accessories,3,559.64,5.0,Cash,4.0
+ORD1464,03-Jan-2025,  Meena Gupta ,43.0,Noida,Water Bottle,Accessories,2,553.3,0.0,Credit Card,5.0
+ORD1572,2025-04-14,Meena Yadav,37.0,Gurugram,Study Table,Furniture,2,5835.02,0.0,Credit Card,2.0
+ORD1333,30-Oct-2025,Sachin Gupta,31.0,Noida,Pen Set,Stationery  ,3,147.41,5.0,Debit Card,1.0
+ORD1010,12-Jul-2025,Ankit Tiwari,,Delhi,Smartphone,Electronics,1,22299.94,5.0,UPI,5.0
+ORD1470,2025-09-27,,63.0,NOIDA,Headphones,Electronics,3,2258.41,0.0,UPI,3.0
+ORD1032,03-Feb-2025,Kavita Jain,59.0,Delhi,Office Chair,Furniture,4,6832.81,,UPI,5.0
+ORD1596,2025-07-31,Pooja Tiwari,61.0,Delhi,Headphones,  Electronics ,4,2524.57,5.0,Credit Card,
+ORD1907,05 March 2025,Deepak Verma,45.0,New Delhi,Smartphone,Electronics,1,22206.8,15.0,UPI,5.0
+ORD1382,12-Dec-2025,Anjali Chaudhary,65.0,Gurugram,Water Bottle,Accessories,4,606.67,10.0,Net Banking,5.0
+ORD1627,15 May 2025,Priya Singh,42.0,Greater Noida,Pen Set,STATIONERY,5,,5.0,UPI,5.0
+ORD1806,18 July 2025,Anjali Chaudhary,52.0,Noida,Notebook Pack,Stationery,2,229.74,15.0,Cash,5.0
+ORD1932,04 April 2025,Vikas Jain,53.0,Lucknow,Laptop,Electronics,1,54858.19,0.0,Credit Card,4.0
+ORD1978,2025-05-09,Sachin Sharma,20.0,Lucknow,Notebook Pack,stationery,2,232.04,0.0,Net Banking,5.0
+ORD1378,2025-05-19,Aman Sharma,37.0,Delhi,Notebook Pack,  Stationery ,1,259.52,5.0,Credit Card,4.0
+ORD1089,31-Oct-2025,Neha Kumar  ,,Noida,Laptop,Electronics,1,53664.83,0.0,UPI,1.0
+ORD1213,2025-06-14,Karan Jain,45.0,Ghaziabad,Water Bottle,Accessories,5,577.15,5.0,Debit Card,3.0
+ORD1867,02 November 2025,Nisha Tiwari,21.0,Noida,Smartphone,Electronics,1,22660.57,20.0,UPI,5.0
+ORD1133,24 July 2025,Deepak Kumar,51.0,Lucknow,Office Chair,Furniture,5,7629.26,0.0,Credit Card,5.0
+ORD1346,28-Dec-2025,Rohit Singh,44.0,Ghaziabad,Office Chair,Furniture,1,8134.42,0.0,Cash,3.0
+ORD1007,12-Sep-2025,Sneha Mishra,32.0,Noida,Backpack,Accessories,1,1667.12,5.0,UPI,5.0
+ORD1779,2025-11-07,Sachin Gupta,31.0,Ghaziabad,Notebook Pack,Stationery,5,260.85,5.0,UPI,5.0
+ORD1320,2025-04-28,Vikas Jain,42.0,Delhi  ,Laptop,Electronics,2,51578.56,15.0,,3.0
+ORD1808,23-May-2025,Meena Verma,25.0,Ghaziabad,Laptop  ,  Electronics ,1,59999.77,0.0,CREDIT CARD,4.0
+ORD1187,20-May-2025,Neha Gupta,51.0,Delhi,Water Bottle,Accessories,5,545.4,15.0,UPI,4.0
+ORD1552,30-Oct-2025,Meena Singh,55.0,Greater Noida,Headphones,  Electronics ,3,₹2725.92,5.0,UPI,3.0
+ORD1304,18 July 2025,Sachin Mishra,64.0,Ghaziabad,Smartphone,Electronics,2,20634.98,0.0,CREDIT CARD,4.0
+ORD1031,24-Mar-2025,Sachin Kumar,19.0,Delhi,Pen Set,Stationery,2,154.75,,Debit Card,4.0
+ORD1845,2025-01-02,Karan Mishra,40.0,Delhi,Notebook Pack,Stationery,2,235.3,15.0,UPI,3.0
+ORD1240,2025-02-21,Suresh Jain,26.0,Delhi,Laptop,ELECTRONICS,2,52330.64,5.0,UPI,5.0
+ORD1752,01 February 2025,Rohit Singh,40.0,GREATER NOIDA,Smartphone,Electronics,2,22628.71,15.0,upi,4.0
+ORD1174,2025-09-12,Aman Kumar,56.0,New Delhi,Notebook Pack,Stationery,3,252.82,5.0,Credit Card,3.0
+ORD1245,2025-01-31,Deepak Jain,31.0,Noida,Notebook Pack,Stationery,5,242.74,0.0,UPI,5.0
+ORD1056,19 July 2025,Divya Verma,26.0,Gurugram,Headphones,Electronics,5,2260.58,0.0,UPI,2.0
+ORD1776,04 June 2025,Divya Sharma,51.0,LUCKNOW,Headphones,Electronics,5,2598.44,10.0,Credit Card,2.0
+ORD1145,08 November 2025,Karan Kumar,44.0,Delhi,Backpack,Accessories,2,1672.5,,UPI,4.0
+ORD1090,08-Jun-2025,Vikas Singh,62.0,Ghaziabad,Water Bottle,accessories,2,630.8,20.0,Credit Card,4.0
+ORD1392,2025-05-15,Deepak Singh,18.0,Delhi,Headphones,Electronics,3,2381.67,15.0,Cash,4.0
+ORD1310,2025-09-01,Pooja Sharma,34.0,Gurugram,Laptop,Electronics,0,56219.07,0.0,Net Banking,4.0
+ORD1359,01 October 2025,Aman Tiwari  ,30.0,Ghaziabad,NOTEBOOK PACK,Stationery,3,253.26,5.0,UPI,5.0
+ORD1093,22 May 2025,Aman Jain,46.0,Greater Noida,Notebook Pack  ,Stationery,1,263.51,10.0,UPI,3.0
+ORD1716,08 July 2025,Neha Sharma,40.0,Gurugram,HEADPHONES,  Electronics ,4,2626.05,0.0,Debit Card,
+ORD1775,14-Dec-2025,Neha Verma,32.0,Lucknow,Headphones,Electronics,2,2380.26,20.0,UPI,5.0
+ORD1376,2025-09-26,Ankit Singh,18.0,Ghaziabad,Office Chair,Furniture  ,1,7515.49,5.0,Net Banking,5.0
+ORD1243,26-Aug-2025,Suresh Chaudhary,62.0,Noida,Laptop,Electronics,1,59583.48,10.0,UPI,2.0
+ORD1850,24-Dec-2025,Vikas Verma,,Lucknow,Pen Set,Stationery,3,144.42,,Credit Card,5.0
+ORD1087,25 April 2025,Neha Mishra,26.0,Ghaziabad,Headphones,Electronics,3,2509.58,5.0,UPI,5.0
+ORD1214,2025-09-26,Nisha Tiwari,46.0,Delhi,pen set,STATIONERY,5,137.94,15.0,Debit Card,2.0
+ORD1446,2025-04-25,Sachin Tiwari,47.0,Greater Noida,Pen Set,Stationery,4,161.99,0.0,UPI,3.0
+ORD1173,2025-09-21,Vikas Sharma,59.0,Delhi,Pen Set,Stationery,1,142.49,0.0,Credit Card,5.0
+ORD1425,14 March 2025,Ritu Tiwari,57.0,Lucknow,Headphones,Electronics,1,2518.16,0.0,Credit Card,4.0
+ORD1800,2025-01-05,Rohit Jain,20.0,Noida,Headphones,Electronics  ,5,2378.06,5.0,UPI,4.0
+ORD1118,31 March 2025,VIKAS YADAV,41.0,Ghaziabad,  Smartphone ,Electronics,1,20671.72,5.0,UPI,
+ORD1119,11 February 2025,Rahul Gupta,59.0,Noida,Laptop,Electronics,1,54212.32,10.0,Credit Card,2.0
+ORD1658,27 January 2025,Nisha Kumar,46.0,,Study Table,Furniture,2,5555.1,0.0,UPI  ,
+ORD1000,02 February 2025,Ritu Chaudhary,38.0,Greater Noida,Pen Set,Stationery,4,163.82,0.0,Credit Card,5.0
+ORD1394,20-Sep-2025,Nisha Mishra,60.0,Noida,Pen Set,stationery,3,143.37,20.0,Cash,5.0
+ORD1401,2025-10-11,Rohit Sharma,42.0,Gurugram,Headphones,Electronics,1,2719.99,10.0,UPI,5.0
+ORD1404,02-Jul-2025,Karan Tiwari,63.0,,Water Bottle,Accessories,2,650.44,0.0,Credit Card,5.0
+ORD1758,16-Feb-2025,Manish Jain,55.0,Delhi,Notebook Pack,Stationery,4,272.5,5.0,UPI,4.0
+ORD1948,2025-12-12,Divya Singh,33.0,Noida,Notebook Pack,Stationery,2,₹227.21,10.0,UPI,3.0
+ORD1162,2025-05-30,manish tiwari,28.0,Greater Noida,Smartphone,Electronics,2,21685.81,5.0,UPI,5.0
+ORD1114,04 July 2025,Aman Singh,54.0,Ghaziabad,Headphones,Electronics,5,2614.75,20.0,Credit Card,
+ORD1150,2025-11-09,Manish Mishra,63.0,Noida,  Office Chair ,Furniture,3,7498.92,10.0,Debit Card,1.0
+ORD1655,14 July 2025,Karan Jain,34.0,Gurugram,Laptop,Electronics,2,54907.71,0.0,UPI,2.0
+ORD1600,2025-08-13,Karan Kumar,54.0,GHAZIABAD,Laptop,Electronics,1,50569.34,0.0,Credit Card,5.0
+ORD1751,2025-02-23,Meena Kumar,20.0,Ghaziabad,Smartphone,Electronics,1,21620.11,0.0,Net Banking,5.0
+ORD1368,09-Jan-2025,Sachin Kumar,39.0,Noida,Smartphone,Electronics,1,22325.53,0.0,UPI,5.0
+ORD1543,05 March 2025,SACHIN VERMA,18.0,Ghaziabad,Pen Set,Stationery,1,156.78,0.0,Net Banking,3.0
+ORD1477,07 January 2025,Neha Tiwari,31.0,Noida,Office Chair,Furniture,5,8068.39,5.0,UPI,4.0
+ORD1532,2025-02-26,Kavita Sharma,18.0,Delhi,Notebook Pack,Stationery,3,247.11,0.0,UPI,5.0
+ORD1104,2025-10-18,Aman Chaudhary,49.0,Delhi,Water Bottle  ,Accessories,3,618.45,0.0,Net Banking,5.0
+ORD1610,2025-11-01,Karan Kumar,43.0,New Delhi,Smartphone,Electronics,2,23653.72,0.0,upi ,5.0
+ORD1987,26-Apr-2025,Ritu Singh,48.0,  Noida ,Notebook Pack,Stationery,4,259.29,5.0,UPI,5.0
+ORD1258,05 March 2025,Priya Singh,,Lucknow,Laptop,Electronics,2,49780.52,5.0,Net Banking,4.0
+ORD1873,2025-02-15,  Deepak Gupta ,,,Backpack,Accessories,1,1860.45,5.0,UPI  ,5.0
+ORD1135,21-Apr-2025,Divya Jain,45.0,Gzb,  Smartphone ,Electronics,2,20015.93,5.0,Debit Card  ,5.0
+ORD1953,2025-06-06,Ritu Verma,21.0,GREATER NOIDA,Water Bottle,Accessories,4,611.07,5.0,Debit Card,4.0
+ORD1657,2025-08-20,Rahul Chaudhary,58.0,,Laptop,Electronics,1,55581.48,0.0,CREDIT CARD,5.0
+ORD1592,29-Mar-2025,Sachin Jain,21.0,Noida,Headphones,Electronics,2,2363.77,5.0,UPI,5.0
+ORD1822,2025-02-19,manish singh,61.0,,Laptop,Electronics,2,50037.46,5.0,UPI,5.0
+ORD1501,26 August 2025,Ritu Gupta,29.0,Ghaziabad,Study Table,Furniture,4,6242.26,5.0,UPI,5.0
+ORD1538,17-Jul-2025,Rohit Verma,41.0,Lucknow,  Study Table ,Furniture,4,6443.83,,upi ,5.0
+ORD1676,31 July 2025,Karan Sharma,21.0,Noida,Notebook Pack,Stationery,5,236.28,0.0,Debit Card,
+ORD1581,01 November 2025,Neha Sharma,25.0,Delhi,Water Bottle,Accessories,5,₹563.29,15.0,Credit Card,5.0
+ORD1343,07-Jul-2025,Karan Verma,35.0,Gurugram,Office Chair  ,Furniture,4,7807.31,5.0,Cash,5.0
+ORD1699,04 February 2025,Rahul Yadav  ,56.0,Delhi,PEN SET,Stationery,1,153.03,10.0,Credit Card,5.0
+ORD1644,09 October 2025,Anjali Kumar,51.0,Delhi  ,Study Table,Furniture,2,6428.69,10.0,Debit Card,2.0
+ORD1293,02 May 2025,Divya Gupta,32.0,Gurugram,Smartphone,Electronics  ,2,21313.76,5.0,Credit Card  ,5.0
+ORD1364,12-Feb-2025,Pooja Verma,50.0,Ghaziabad,Smartphone,Electronics,1,22957.09,20.0,Credit Card,5.0
+ORD1650,28-Jun-2025,Ankit Mishra,28.0,DELHI,Smartphone,Electronics,2,22198.15,15.0,UPI,3.0
+ORD1014,19-Sep-2025,Karan Mishra,200.0,Gurugram,Headphones,Electronics,2,2382.36,20.0,Cash,3.0
+ORD1086,05 February 2025,Karan Verma,52.0,Gurugram,Smartphone,Electronics,1,23922.39,10.0,,4.0
+ORD1370,03 May 2025,Rahul Yadav,26.0,Delhi,Pen Set,Stationery,3,157.94,15.0,UPI,4.0
+ORD1165,25-Oct-2025,Suresh Chaudhary,23.0,Delhi,Pen Set,Stationery,5,146.83,5.0,Cash,4.0
+ORD1908,16 May 2025,Neha Sharma,,Ghaziabad,Backpack,Accessories,2,1707.2,15.0,UPI,2.0
+ORD1335,23 October 2025,  Manish Chaudhary ,29.0,Noida,Notebook Pack,Stationery,5,261.62,10.0,Credit Card,3.0
+ORD1059,2025-09-07,Manish Jain,49.0,Gurugram,Notebook Pack,Stationery,2,232.5,0.0,Credit Card,5.0
+ORD1354,2025-12-20,Kavita Chaudhary,39.0,Ghaziabad,Headphones,Electronics,4,₹2575.91,0.0,UPI,4.0
+ORD1424,02-Jun-2025,Nisha Kumar,31.0,Ghaziabad,SMARTPHONE,Electronics,2,20836.09,20.0,UPI,4.0
+ORD1292,15-Dec-2025,Rohit Kumar,65.0,Delhi,Headphones,Electronics,1,2485.48,5.0,,5.0
+ORD1041,04-Oct-2025,Ritu Jain,54.0,NOIDA,Notebook Pack,Stationery,5,267.82,0.0,UPI,5.0
+ORD1329,2025-07-22,Neha Yadav,49.0,Ghaziabad,Headphones,Electronics,3,2260.07,0.0,Net Banking,5.0
+ORD1614,2025-09-08,Ritu Mishra,47.0,Gurugram,Water Bottle,Accessories,3,587.54,5.0,Credit Card,4.0
+ORD1429,2025-09-19,  Kavita Mishra ,37.0,Delhi,Pen Set,Stationery,4,138.92,0.0,Cash,4.0
+ORD1079,2025-09-02,Karan Verma,64.0,Ghaziabad,Headphones,Electronics,1,2411.95,5.0,,
+ORD1028,19-Jul-2025,Neha Sharma,52.0,Lucknow,Pen Set,Stationery,4,158.86,20.0,Net Banking,
+ORD1254,30-Aug-2025,Rohit Yadav,19.0,Noida,Pen Set,Stationery,1,138.16,10.0,UPI,3.0
+ORD1990,06 May 2025,Aman Yadav,48.0,Gurugram,Laptop,Electronics,1,49776.69,15.0,Cash,4.0
+ORD1458,03 November 2025,Priya Sharma,34.0,Gurugram,Notebook Pack,stationery,5,246.39,0.0,UPI,4.0
+ORD1383,2025-03-29,Rahul Yadav,62.0,Gzb,Notebook Pack,Stationery,4,259.97,5.0,UPI,
+ORD1313,2025-04-13,Sachin Gupta,54.0,Noida,Notebook Pack,Stationery,2,229.61,5.0,UPI,1.0
+ORD1084,2025-08-18,Deepak Verma,58.0,Ghaziabad,Water Bottle,Accessories,2,595.98,,UPI,5.0
+ORD1574,2025-01-03,Rahul Gupta,29.0,Noida,Backpack,Accessories,3,1825.27,5.0,Debit Card,3.0
+ORD1136,09 August 2025,Sachin Kumar,43.0,  Ghaziabad ,Pen Set,Stationery,1,158.71,10.0,UPI,3.0
+ORD1111,2025-10-12,Vikas Yadav,38.0,Delhi,pen set,Stationery,4,160.81,10.0,,5.0
+ORD1194,17 December 2025,deepak tiwari,43.0,Noida,Water Bottle,Accessories,1,594.95,5.0,UPI,4.0
+ORD1178,25 November 2025,Vikas Kumar,19.0,Delhi,Smartphone,Electronics  ,1,20621.31,5.0,Debit Card,5.0
+ORD1912,2025-05-18,Priya Singh,28.0,gurugram,Backpack,Accessories,1,1749.5,0.0,Debit Card,4.0
+ORD1496,2025-02-13,Rohit Yadav,37.0,  Ghaziabad ,Notebook Pack,Stationery,1,268.64,5.0,UPI,5.0
+ORD1129,20-Aug-2025,Meena Chaudhary,44.0,Noida,Backpack,Accessories,3,1910.08,0.0,UPI,5.0
+ORD1337,26-Apr-2025,Priya Jain,50.0,Noida,Water Bottle,Accessories,3,596.4,0.0,Net Banking,4.0
+ORD1608,19-Dec-2025,Rahul Sharma,20.0,Delhi  ,Water Bottle,Accessories,2,599.19,0.0,Net Banking,
+ORD1124,09 November 2025,Pooja Yadav,33.0,,Water Bottle,Accessories,1,Rs. 602.57,5.0,UPI,4.0
+ORD1988,2025-03-31,Suresh Sharma,22.0,Noida,Backpack,Accessories,4,1928.46,0.0,Cash,5.0
+ORD1226,23 October 2025,Ritu Chaudhary,33.0,Delhi,Headphones,Electronics,2,2640.46,10.0,Credit Card,4.0
+ORD1268,12-Aug-2025,Aman Gupta,63.0,Noida,Smartphone,Electronics,2,23827.75,5.0,NET BANKING,5.0
+ORD1929,30-Jul-2025,AMAN YADAV,44.0,,Study Table,Furniture,3,6330.79,10.0,Cash,4.0
+ORD1584,2025-05-28,Kavita Tiwari,55.0,Ghaziabad,Water Bottle,Accessories,3,613.65,5.0,UPI,4.0
+ORD1103,03-Jan-2025,Kavita Chaudhary,61.0,Noida,Pen Set,Stationery,4,147.48,0.0,Debit Card,2.0
+ORD1593,24-Dec-2025,Ankit Singh,31.0,Delhi,  Headphones ,Electronics,1,2545.39,0.0,Net Banking,5.0
+ORD1879,18 August 2025,Aman Gupta,56.0,Gurugram,Study Table,Furniture,5,5657.11,10.0,UPI,4.0
+ORD1901,2025-01-16,Rohit Mishra,24.0,Ghaziabad,Laptop,Electronics,2,59895.87,0.0,Debit Card,3.0
+ORD1227,2025-07-31,Suresh Verma,58.0,Lucknow,Laptop,Electronics,2,59123.05,20.0,Credit Card,1.0
+ORD1910,09 October 2025,Aman Jain,22.0,Ghaziabad,Backpack,Accessories,5,1635.6,0.0,UPI,4.0
+ORD1301,2025-10-29,Vikas Singh  ,49.0,Noida,Headphones,Electronics,2,2349.48,0.0,Debit Card,5.0
+ORD1275,26-Jun-2025,Manish Tiwari,62.0,Greater Noida,Backpack,Accessories  ,2,1651.09,15.0,Credit Card,4.0
+ORD1126,2025-01-29,Neha Gupta,54.0,Lucknow,Pen Set,Stationery,3,135.26,0.0,UPI,5.0
+ORD1405,2025-07-02,Priya Mishra,42.0,Greater Noida,Pen Set,stationery,4,135.55,0.0,UPI,2.0
+ORD1916,18-Jul-2025,Ankit Mishra,65.0,  Greater Noida ,Notebook Pack,Stationery,4,268.67,20.0,UPI,5.0
+ORD1036,10 November 2025,Meena Kumar,45.0,delhi,Notebook Pack,STATIONERY,1,265.59,,Net Banking,5.0
+ORD1139,09 June 2025,manish mishra,24.0,Delhi,Backpack,Accessories,2,1752.56,0.0,UPI,5.0
+ORD1303,24 November 2025,Sneha Yadav,50.0,Ghaziabad,Notebook Pack,Stationery,2,247.55,15.0,Net Banking,5.0
+ORD1267,07-May-2025,ANKIT JAIN,59.0,Delhi,Laptop,Electronics,1,59319.77,0.0,Credit Card,4.0
+ORD1533,14 April 2025,Suresh Mishra,52.0,Ghaziabad,Water Bottle,Accessories,1,588.71,5.0,UPI,2.0
+ORD1545,20 January 2025,Pooja Sharma,37.0,Noida,Headphones,Electronics,1,2270.02,20.0,UPI,4.0
+ORD1212,15 October 2025,PRIYA KUMAR,44.0,DELHI,Backpack,Accessories,1,1706.87,0.0,Debit Card,
+ORD1468,08 March 2025,Ankit Mishra,49.0,Gzb,Notebook Pack,Stationery,3,229.1,0.0,Net Banking,5.0
+ORD1198,2025-05-04,Aman Mishra,24.0,Delhi,PEN SET,Stationery,3,163.24,0.0,Net Banking,4.0
+ORD1672,21-Aug-2025,  Rahul Sharma ,31.0,Delhi,Headphones,Electronics,2,2588.68,0.0,Cash,1.0
+ORD1527,22-Feb-2025,Divya Mishra,23.0,Gurugram,Office Chair,Furniture,2,7662.63,10.0,Net Banking,5.0
+ORD1675,22 September 2025,Rahul Gupta  ,39.0,Noida,Pen Set,Stationery,4,149.57,0.0,Net Banking,4.0
+ORD1818,31 August 2025,Aman Mishra,65.0,Noida  ,Pen Set,Stationery,4,144.58,0.0,UPI  ,3.0
+ORD1241,02 August 2025,Meena Gupta,27.0,Delhi,Smartphone,Electronics,1,20430.51,0.0,Credit Card,5.0
+ORD1342,2025-08-15,Suresh Sharma,37.0,Delhi,Notebook Pack,Stationery,5,256.0,0.0,  UPI ,3.0
+ORD1549,06 September 2025,Divya Tiwari,52.0,Gurugram,Headphones,Electronics,4,2399.06,0.0,Debit Card,3.0
+ORD1386,25 January 2025,Rahul Kumar,54.0,Delhi,office chair,Furniture,5,7671.64,10.0,UPI,4.0
+ORD1885,2025-09-26,Divya Gupta,23.0,Ghaziabad,Laptop,Electronics,1,52995.49,15.0,UPI,4.0
+ORD1206,06-Oct-2025,Karan Mishra,38.0,Noida,Pen Set,Stationery,1,140.06,0.0,cash,5.0
+ORD1295,2025-07-10,Karan Chaudhary,58.0,Noida,HEADPHONES,Electronics,2,2680.37,5.0,,3.0
+ORD1795,2025-04-18,Karan Singh,38.0,New Delhi,OFFICE CHAIR,Furniture,1,7829.53,20.0,Debit Card,3.0
+ORD1073,2025-02-17,,37.0,Ghaziabad  ,Pen Set,Stationery,3,139.19,5.0,UPI,1.0
+ORD1770,26 August 2025,Sachin Mishra,28.0,Delhi,Water Bottle,Accessories,2,578.61,0.0,UPI,5.0
+ORD1104,2025-10-18,Aman Chaudhary,49.0,Delhi,Water Bottle  ,Accessories,3,618.45,0.0,Net Banking,5.0
+ORD1712,2025-09-23,Nisha Sharma,49.0,Delhi,Notebook Pack,  Stationery ,1,269.43,0.0,Net Banking,3.0
+ORD1734,18 March 2025,Anjali Mishra,57.0,Delhi,Headphones,Electronics,2,2443.02,0.0,UPI,4.0
+ORD1992,2025-03-13,Meena Tiwari,50.0,DELHI,Pen Set,Stationery,5,135.66,5.0,Cash,5.0
+ORD1016,2025-07-07,ANJALI JAIN,28.0,Delhi,Headphones,Electronics,4,2439.16,15.0,Credit Card,5.0
+ORD1439,2025-05-26,Pooja Singh,57.0,Delhi,Smartphone,electronics,2,23534.14,0.0,Credit Card,2.0
+ORD1091,21-Oct-2025,Anjali Yadav,,Noida,Study Table,FURNITURE,1,6317.71,15.0,Cash,5.0
+ORD1088,08 October 2025,Sneha Mishra,29.0,Noida,Headphones,Electronics,4,2269.78,0.0,UPI,3.0
+ORD1450,17-Dec-2025,Karan Tiwari,23.0,Noida,Notebook Pack,STATIONERY,2,265.13,0.0,Net Banking,5.0
+ORD1102,21-Oct-2025,,62.0,Lucknow,Water Bottle,Accessories,4,550.53,0.0,UPI,4.0
+ORD1238,23 April 2025,Priya Jain,46.0,Lucknow,Office Chair,Furniture,2,7032.84,0.0,  Debit Card ,5.0
+ORD1746,2025-07-14,Ankit Sharma,36.0,Delhi,Notebook Pack,Stationery,2,231.47,5.0,UPI,5.0
+ORD1246,04-Oct-2025,Anjali Mishra,56.0,Gurugram,Headphones,Electronics,1,2597.78,0.0,UPI,4.0
+ORD1883,2025-02-26,Ritu Mishra,19.0,Greater Noida,Water Bottle,Accessories,4,594.2,15.0,CREDIT CARD,5.0
+ORD1157,23-Jul-2025,Nisha Chaudhary,39.0,Gurugram,Headphones,Electronics,3,2455.6,10.0,UPI,3.0
+ORD1479,09-Feb-2025,Rahul Chaudhary,40.0,Ghaziabad,Smartphone,Electronics,1,20181.68,20.0,UPI,3.0
+ORD1645,30-Apr-2025,priya chaudhary,53.0,Lucknow,Headphones,Electronics,4,2328.21,15.0,Net Banking,5.0
+ORD1871,15 March 2025,Deepak Sharma,65.0,Lucknow  ,Water Bottle,Accessories,3,588.53,5.0,Credit Card,4.0
+ORD1870,16-Jun-2025,Pooja Sharma,56.0,Ghaziabad,Smartphone,  Electronics ,1,23785.2,15.0,Net Banking,
+ORD1018,03-Nov-2025,Pooja Chaudhary,37.0,Ghaziabad,Laptop,Electronics,1,51577.2,0.0,Net Banking,4.0
+ORD1729,2025-08-29,Neha Tiwari,59.0,Delhi,laptop,Electronics,1,57553.75,0.0,UPI,1.0
+ORD1121,2025-09-01,Karan Jain,20.0,Greater Noida,Notebook Pack,Stationery,4,229.45,0.0,UPI,
+ORD1861,05-Dec-2025,Anjali Tiwari,23.0,Delhi,Office Chair,Furniture,4,7324.41,0.0,UPI,1.0
+ORD1728,2025-06-28,Vikas Sharma,36.0,Delhi,Water Bottle,Accessories,4,Rs. 572.09,0.0,UPI,3.0
+ORD1274,02 June 2025,,34.0,Gurugram,Laptop,Electronics,2,58853.12,15.0,Credit Card,3.0
+ORD1433,2025-02-17,Rohit Chaudhary,42.0,Delhi,Pen Set,Stationery,4,Rs. 154.62,5.0,Debit Card,5.0
+ORD1924,2025-04-01,Priya Gupta,25.0,Ghaziabad,Office Chair,Furniture,5,6814.24,10.0,UPI,5.0
+ORD1311,2025-09-03,Divya Sharma,53.0,DELHI,Laptop  ,Electronics,2,52559.79,0.0,Credit Card,4.0
+ORD1783,14 February 2025,  Nisha Kumar ,33.0,Ghaziabad,Notebook Pack,Stationery,1,238.72,10.0,Credit Card,2.0
+ORD1860,20 December 2025,Priya Kumar,26.0,Delhi,Pen Set,Stationery,5,145.55,5.0,UPI,7.0
+ORD1546,06-Jun-2025,Meena Chaudhary,25.0,  Ghaziabad ,Headphones,Electronics,5,2270.58,0.0,Net Banking,4.0
+ORD1181,25-Feb-2025,Ritu Gupta,25.0,Gurugram,Headphones,Electronics,1,2670.56,20.0,Net Banking,1.0
+ORD1184,30-Jun-2025,Suresh Mishra,,Gurugram,Notebook Pack,Stationery  ,3,244.27,15.0,Net Banking,5.0
+ORD1406,08 June 2025,Divya Singh,63.0,Gurugram,Notebook Pack,Stationery,4,236.71,10.0,Net Banking,4.0
+ORD1719,2025-08-07,Priya Yadav,23.0,Ghaziabad,Laptop,Electronics,2,54435.55,0.0,Credit Card,5.0
+ORD1606,28 April 2025,Anjali Chaudhary,21.0,Delhi,Smartphone,  Electronics ,2,23746.55,10.0,Net Banking,5.0
+ORD1692,06 December 2025,Sneha Yadav,52.0,Ghaziabad,Backpack,Accessories,3,1849.65,20.0,Debit Card,5.0
+ORD1520,11 May 2025,Sachin Mishra,62.0,Noida,Backpack,Accessories,4,1822.66,0.0,Cash,5.0
+ORD1380,02 January 2025,Manish Singh,37.0,Ghaziabad,Office Chair,Furniture  ,4,7170.35,15.0,UPI,1.0
+ORD1410,2025-03-05,Sneha Sharma,25.0,,Pen Set  ,Stationery,1,138.56,5.0,upi ,5.0
+ORD1634,08-Mar-2025,Ritu Tiwari  ,46.0,Delhi,Water Bottle,Accessories,4,640.32,10.0,Cash,1.0
+ORD1369,2025-10-09,Rohit Gupta,43.0,Ghaziabad,Headphones,Electronics,1,2520.07,20.0,UPI,3.0
+ORD1928,02-Jun-2025,Rahul Tiwari,63.0,Ghaziabad,Pen Set,Stationery,2,149.37,0.0,NET BANKING,3.0
+ORD1858,02 September 2025,Nisha Sharma,46.0,Ghaziabad,Pen Set,Stationery,2,₹160.45,10.0,Credit Card,2.0
+ORD1778,09-Apr-2025,Deepak Jain,60.0,Gzb,Backpack,Accessories,5,1877.15,10.0,Net Banking,
+ORD1078,2025-07-26,Ankit Mishra,34.0,LUCKNOW,Backpack,Accessories,2,1816.92,0.0,UPI,4.0
+ORD1573,18-Jan-2025,Manish Singh,,Lucknow,Water Bottle,Accessories,4,596.17,0.0,UPI,3.0
+ORD1637,19 April 2025,Rohit Kumar,41.0,Noida,Study Table,Furniture,2,"Rs. 5,417.32",0.0,Debit Card,3.0
+ORD1607,2025-07-07,Nisha Gupta,54.0,Gurugram,Office Chair,Furniture,1,6805.2,,UPI,4.0
+ORD1848,27 October 2025,Priya Yadav,61.0,Greater Noida,Study Table,Furniture,5,5829.3,0.0,  Cash ,5.0
+ORD1472,07 June 2025,Karan Mishra,46.0,Noida,Smartphone,Electronics,1,23010.6,5.0,  Credit Card ,4.0
+ORD1856,31 March 2025,Anjali Tiwari,,Noida  ,Notebook Pack,Stationery,2,230.41,15.0,Credit Card,5.0
+ORD1951,2025-04-22,Vikas Tiwari,36.0,GHAZIABAD,Notebook Pack,Stationery,100,237.06,0.0,UPI,3.0
+ORD1416,20-Dec-2025,Deepak Kumar,55.0,Ghaziabad,smartphone,Electronics,2,20462.87,,UPI,1.0
+ORD1767,2025-06-24,Divya Singh,39.0,Noida,Water Bottle,Accessories,4,621.72,5.0,UPI,4.0
+ORD1561,16-Jan-2025,  Karan Sharma ,35.0,Noida,Notebook Pack,Stationery,2,271.39,10.0,Debit Card,4.0
+ORD1067,16 May 2025,Manish Verma,53.0,Noida,Laptop,Electronics,2,,20.0,UPI,3.0
+ORD1536,2025-06-16,sneha chaudhary,60.0,Ghaziabad,Headphones,Electronics,2,2652.02,10.0,Credit Card,4.0
+ORD1077,2025-03-24,Anjali Chaudhary,48.0,Lucknow,notebook pack,Stationery  ,2,239.24,10.0,Net Banking,1.0
+ORD1105,15 October 2025,Meena Kumar,35.0,Ghaziabad,Pen Set,stationery,3,139.09,0.0,UPI,2.0
+ORD1718,2025-03-28,Rohit Gupta,22.0,NOIDA,Pen Set,Stationery,1,135.79,5.0,Net Banking,0.0
+ORD1805,13 October 2025,  Ritu Gupta ,52.0,Delhi,Water Bottle,Accessories,3,556.32,0.0,Credit Card,5.0
+ORD1638,17 October 2025,Anjali Tiwari,56.0,  Noida ,Laptop,Electronics,1,,10.0,UPI,4.0
+ORD1559,2025-11-07,Neha Singh,19.0,Lucknow,Pen Set,Stationery,3,156.82,5.0,  UPI ,4.0
+ORD1785,03 August 2025,Karan Jain,59.0,Gurugram,Water Bottle,Accessories,1,628.19,80.0,Debit Card,5.0
+ORD1690,2025-12-30,Ankit Yadav,40.0,Gurugram,Study Table,Furniture,3,6549.13,5.0,UPI,4.0
+ORD1894,01 October 2025,Rohit Mishra,63.0,,Backpack,Accessories,2,1823.56,0.0,UPI,4.0
+ORD1966,08 August 2025,Karan Chaudhary,64.0,Lucknow,Study Table,Furniture,4,6527.58,10.0,UPI,
+ORD1896,05-Jul-2025,Priya Jain,38.0,Delhi,Notebook Pack,Stationery  ,4,272.63,10.0,Net Banking,3.0
+ORD1735,02-Sep-2025,Priya Kumar,61.0,Noida,Smartphone,Electronics,1,20116.78,,Debit Card,5.0
+ORD1971,02 June 2025,Sneha Kumar,51.0,  Noida ,Smartphone,Electronics,1,19810.6,0.0,UPI,4.0
+ORD1490,07 December 2025,Anjali Gupta,30.0,Ghaziabad,Notebook Pack,STATIONERY,3,256.49,10.0,UPI,4.0
+ORD1647,15 July 2025,Neha Gupta,23.0,Delhi  ,Backpack,Accessories,2,1752.7,5.0,Net Banking,5.0
+ORD1869,15 January 2025,Anjali Sharma,24.0,LUCKNOW,Headphones,Electronics,5,2527.23,0.0,Debit Card  ,4.0
+ORD1605,2025-07-15,Nisha Sharma,61.0,Noida,Pen Set,Stationery,3,153.38,10.0,,4.0
+ORD1363,23-Nov-2025,Anjali Mishra,41.0,Gzb,Notebook Pack,Stationery  ,3,231.76,20.0,UPI,3.0
+ORD1069,21 June 2025,Vikas Verma,30.0,Gurugram,Notebook Pack,Stationery,4,255.93,20.0,NET BANKING,3.0
+ORD1548,2025-07-08,Ritu Gupta,31.0,NOIDA,Backpack,Accessories,2,1859.71,15.0,UPI,5.0
+ORD1160,30-Dec-2025,Meena Chaudhary,62.0,Ghaziabad,Headphones,Electronics,2,2729.8,0.0,Credit Card,4.0
+ORD1011,2025-12-23,Karan Verma,,Noida,Backpack,Accessories  ,1,1978.14,15.0,  Credit Card ,3.0
+ORD1144,29 December 2025,Manish Tiwari,38.0,Delhi,Notebook Pack,Stationery,1,257.12,5.0,UPI,3.0
+ORD1517,25-Jan-2025,Manish Verma,38.0,Ghaziabad,Backpack,Accessories,3,1844.15,0.0,Credit Card,1.0
+ORD1427,21 October 2025,Manish Gupta,65.0,Delhi,Backpack,  Accessories ,4,1808.97,15.0,upi ,4.0
+ORD1639,13 December 2025,Nisha Tiwari,54.0,Noida,Pen Set,Stationery,3,164.07,0.0,UPI,5.0
+ORD1176,19-Sep-2025,Divya Chaudhary,40.0,Delhi,Water Bottle,Accessories,1,580.09,0.0,Credit Card,5.0
+ORD1440,22-Dec-2025,  Ritu Mishra ,65.0,Gurugram,Headphones,Electronics,4,2645.3,15.0,Cash,4.0
+ORD1521,23-Feb-2025,Kavita Sharma,49.0,Delhi,Pen Set,Stationery,4,161.83,0.0,Credit Card,3.0
+ORD1897,20-Jan-2025,Deepak Yadav,42.0,Delhi,Water Bottle,Accessories,3,631.6,0.0,UPI,
+ORD1970,20 April 2025,Deepak Mishra  ,18.0,Gurugram,Water Bottle,Accessories,5,653.9,5.0,Credit Card,5.0
+ORD1688,2025-06-12,Manish Tiwari,46.0,Delhi,Smartphone,Electronics,1,22908.55,5.0,UPI,5.0
+ORD1231,09-Nov-2025,Ritu Tiwari,25.0,Noida,Laptop,Electronics,2,52476.72,0.0,UPI,
+ORD1210,06-Apr-2025,Kavita Gupta,62.0,Ghaziabad,Water Bottle,Accessories,2,618.1,0.0,Cash,5.0
+ORD1640,2025-09-02,Manish Tiwari,34.0,,  Office Chair ,Furniture,5,7558.85,15.0,UPI,1.0
+ORD1143,30 May 2025,Ritu Mishra,31.0,Delhi,Headphones,Electronics,4,2725.25,15.0,Net Banking,5.0
+ORD1753,08 December 2025,Divya Sharma,42.0,noida,Notebook Pack,Stationery,1,248.23,20.0,UPI,4.0
+ORD1519,2025-08-05,Kavita Chaudhary,20.0,Delhi,Study Table,Furniture,2,6449.41,5.0,,5.0
+ORD1348,07-Mar-2025,Rohit Mishra,22.0,,Smartphone,Electronics  ,1,22656.05,5.0,  UPI ,3.0
+ORD1298,2025-04-14,Pooja Singh,32.0,Greater Noida,Pen Set  ,Stationery,5,149.53,10.0,UPI,5.0
+ORD1766,2025-08-12,Priya Singh,35.0,Ghaziabad,Smartphone,Electronics,1,21228.93,5.0,UPI,4.0
+ORD1428,10-Jan-2025,Kavita Sharma,54.0,Delhi,Notebook Pack,Stationery,5,249.7,15.0,Credit Card,
+ORD1612,14 October 2025,Vikas Kumar,57.0,Greater Noida,Notebook Pack,Stationery,3,Rs. 261.88,15.0,Credit Card,5.0
+ORD1956,27 May 2025,RAHUL VERMA,42.0,Ghaziabad,Headphones,Electronics,1,2712.3,20.0,UPI,4.0
+ORD1965,03-Aug-2025,Vikas Tiwari,54.0,Ghaziabad,Pen Set,Stationery,4,158.01,,UPI,2.0
+ORD1008,15-Mar-2025,Suresh Sharma,59.0,  Lucknow ,Notebook Pack,Stationery,1,249.9,10.0,Debit Card,5.0
+ORD1156,2025-02-16,Ritu Mishra,,Delhi,Backpack,Accessories,4,1664.79,0.0,Credit Card,5.0
+ORD1539,2025-01-08,MEENA KUMAR,45.0,Gurugram,Smartphone,Electronics,2,21480.25,10.0,UPI,
+ORD1506,2025-07-13,Rohit Verma,65.0,Delhi,Water Bottle,Accessories,1,587.75,0.0,Cash,3.0
+ORD1436,2025-07-27,Aman Verma,53.0,Gurugram,Water Bottle,Accessories,2,621.09,0.0,Debit Card,1.0
+ORD1266,13 June 2025,Divya Tiwari,33.0,Gurugram,Smartphone,Electronics,1,22424.3,0.0,Debit Card,
+ORD1461,2025-02-21,Sneha Verma,33.0,Lucknow,Study Table,Furniture,2,6126.21,5.0,UPI,3.0
+ORD1576,04-Dec-2025,manish singh,54.0,Noida,Notebook Pack,Stationery,5,242.34,15.0,Debit Card,4.0
+ORD1338,2025-03-15,Divya Tiwari,40.0,  Noida ,Study Table,Furniture,2,5708.87,10.0,UPI,2.0
+ORD1255,22 February 2025,Sachin Sharma,22.0,Noida,Headphones,Electronics,5,2564.24,5.0,UPI,5.0
+ORD1829,11-Jan-2025,Kavita Sharma,21.0,Gurugram,Smartphone,Electronics  ,2,22137.81,5.0,UPI,4.0
+ORD1876,17-Jul-2025,Meena Mishra,18.0,Ghaziabad,Pen Set,Stationery,5,152.31,0.0,Net Banking,4.0
+ORD1665,2025-09-11,Priya Gupta,18.0,Lucknow,Backpack,Accessories,2,1782.46,0.0,Debit Card  ,4.0
+ORD1560,2025-07-15,Pooja Sharma,18.0,Lucknow,Water Bottle,Accessories,5,598.73,10.0,Debit Card,5.0
+ORD1208,07-Apr-2025,Neha Tiwari,61.0,Gurugram,Study Table,Furniture,4,5414.17,0.0,Net Banking,2.0
+ORD1287,2025-07-28,Sneha Verma,65.0,Lucknow,Headphones,  Electronics ,3,2729.54,10.0,Net Banking,5.0
+ORD1001,2025-10-10,Kavita Singh,24.0,Delhi,Backpack,Accessories,3,1697.58,10.0,Debit Card,5.0
+ORD1341,2025-04-17,Karan Chaudhary,24.0,Gurugram,Pen Set,Stationery,1,162.87,0.0,Credit Card,4.0
+ORD1269,2025-08-04,Divya Kumar,44.0,lucknow,Notebook Pack,Stationery,4,235.13,10.0,Credit Card,3.0
+ORD1265,2025-08-01,Pooja Chaudhary,50.0,Gurugram,Laptop,Electronics,1,55666.59,5.0,UPI,4.0
+ORD1839,29 November 2025,Karan Sharma,21.0,  Lucknow ,Office Chair,Furniture,1,7572.55,0.0,Credit Card,
+ORD1846,2025-02-27,Sneha Yadav,26.0,Lucknow,Study Table,furniture,1,5995.69,10.0,UPI,4.0
+ORD1095,16-Apr-2025,Sneha Mishra,33.0,Ghaziabad,Headphones,Electronics,1,2696.87,5.0,Credit Card,3.0
+ORD1598,2025-08-18,Priya Verma,60.0,Ghaziabad,Backpack,Accessories,4,1690.3,10.0,UPI,4.0
+ORD1042,2025-09-13,Suresh Gupta,31.0,Ghaziabad,Backpack,Accessories,4,1726.21,5.0,  Debit Card ,
+ORD1828,12 November 2025,Ritu Singh,48.0,Ghaziabad,Headphones,Electronics,4,2289.62,20.0,upi ,5.0
+ORD1398,2025-04-13,Suresh Kumar,47.0,delhi,Smartphone,Electronics,2,20752.11,20.0,UPI,
+ORD1859,20-Oct-2025,Ritu Sharma,59.0,Gurugram,Smartphone,Electronics,2,22951.88,5.0,UPI,1.0
+ORD1628,04-Jul-2025,Rahul Kumar,20.0,Greater Noida  ,Pen Set,Stationery,2,160.22,5.0,UPI,3.0
+ORD1045,21 December 2025,manish chaudhary,41.0,Ghaziabad,Study Table,Furniture,3,6312.51,5.0,Net Banking,4.0
+ORD1161,31-Aug-2025,Rohit Kumar,21.0,Ghaziabad,Backpack,Accessories,2,1723.88,0.0,Net Banking,4.0
+ORD1727,02-Feb-2025,Manish Yadav,38.0,Greater Noida,Notebook Pack,Stationery,2,237.71,,Net Banking,4.0
+ORD1629,14 May 2025,Anjali Chaudhary,48.0,Ghaziabad,Water Bottle,Accessories,4,595.78,15.0,UPI,3.0
+ORD1288,2025-07-17,Sachin Jain  ,54.0,Ghaziabad,  Pen Set ,Stationery,5,140.17,,Net Banking,2.0
+ORD1589,04-Nov-2025,Sachin Singh,53.0,Gurugram,Study Table,Furniture,-2,5412.48,10.0,UPI,4.0
+ORD1920,15-Nov-2025,Neha Gupta,42.0,Ghaziabad,Pen Set,Stationery,5,145.88,10.0,UPI,
+ORD1982,19 July 2025,,58.0,Noida,Notebook Pack,STATIONERY,2,253.82,10.0,Credit Card,4.0
+ORD1575,17-May-2025,Suresh Verma,63.0,Greater Noida,Headphones,Electronics,5,2403.17,0.0,UPI,5.0
+ORD1315,29-Aug-2025,Neha Jain,39.0,Gurugram,Backpack,  Accessories ,1,1739.26,10.0,Net Banking,5.0
+ORD1917,2025-10-14,Ankit Jain,,Ghaziabad,Notebook Pack,Stationery,2,₹257.58,0.0,Cash,3.0
+ORD1230,19 June 2025,Rohit Chaudhary,49.0,Ghaziabad,Headphones,Electronics,2,2377.59,10.0,  Debit Card ,3.0
+ORD1809,30 December 2025,anjali singh,52.0,Delhi,Water Bottle,Accessories,3,651.81,5.0,Credit Card,1.0
+ORD1698,2025-01-19,Sneha Singh,27.0,Delhi,Headphones,Electronics,3,2314.19,20.0,Debit Card,4.0
+ORD1852,2025-12-18,Nisha Sharma,26.0,Gurugram,Headphones,Electronics,3,2251.74,0.0,Credit Card,3.0
+ORD1711,2025-07-10,Ankit Tiwari,54.0,Ghaziabad  ,Backpack,Accessories,2,1708.85,0.0,  Net Banking ,5.0
+ORD1076,01 May 2025,Rohit Sharma,55.0,lucknow,Water Bottle  ,Accessories,4,₹590.55,0.0,upi ,4.0
+ORD1633,19 May 2025,Vikas Sharma,30.0,Ghaziabad,Pen Set,Stationery,4,144.28,0.0,UPI,4.0
+ORD1242,2025-02-04,Sachin Chaudhary,22.0,Delhi,Backpack,Accessories,2,1759.7,5.0,Net Banking  ,5.0
+ORD1247,01 June 2025,Kavita Verma,42.0,delhi,Study Table,Furniture,2,5927.22,0.0,UPI,
+ORD1819,2025-12-31,Pooja Kumar,35.0,Ghaziabad,Backpack,accessories,4,1838.11,10.0,Credit Card,5.0
+ORD1262,2025-04-20,Pooja Chaudhary,60.0,noida,Laptop,Electronics,1,53364.85,5.0,Credit Card,
+ORD1476,2025-11-06,Ritu Tiwari,57.0,Delhi,Notebook Pack,Stationery,1,262.01,0.0,UPI,2.0
+ORD1670,14-Dec-2025,Karan Chaudhary,41.0,,Office Chair,FURNITURE,1,6954.11,0.0,Credit Card,5.0
+ORD1085,2025-09-13,Rohit Chaudhary,23.0,Delhi,Notebook Pack,Stationery,3,226.95,5.0,Debit Card,3.0
+ORD1469,07 December 2025,Divya Verma,33.0,GURUGRAM,Headphones,Electronics,2,2733.47,15.0,UPI,5.0
+ORD1225,22-Apr-2025,Suresh Sharma,47.0,Noida,Laptop,Electronics  ,1,53212.39,10.0,UPI  ,2.0
+ORD1774,2025-11-05,Sneha Verma  ,55.0,Noida,Smartphone,Electronics,1,22416.1,10.0,Credit Card,4.0
+ORD1331,16-May-2025,Sneha Tiwari,54.0,Ghaziabad,NOTEBOOK PACK,STATIONERY,1,259.29,15.0,Credit Card,1.0
+ORD1233,04-Oct-2025,Suresh Gupta,52.0,Gurugram,Office Chair,Furniture,2,6897.47,0.0,Cash,2.0
+ORD1588,02-Nov-2025,Ankit Kumar,21.0,Noida,Notebook Pack,Stationery,1,266.78,10.0,UPI,4.0
+ORD1475,14-Oct-2025,Ankit Jain,55.0,New Delhi,Notebook Pack,Stationery,2,233.95,5.0,Credit Card,3.0
+ORD1918,03-Apr-2025,Neha Gupta,51.0,  Noida ,Backpack,Accessories,2,1778.54,0.0,Credit Card,2.0
+ORD1898,26-Jan-2025,ritu kumar,29.0,Gurugram,Notebook Pack,Stationery,3,267.33,5.0,Credit Card,3.0
+ORD1599,23-Aug-2025,Meena Verma,,Lucknow,Smartphone,Electronics,2,23097.7,0.0,Net Banking,2.0
+ORD1421,11 September 2025,Kavita Verma,58.0,Gzb,Backpack,Accessories,3,1819.7,0.0,Debit Card,5.0
+ORD1687,05-Aug-2025,Deepak Sharma,63.0,Delhi,Water Bottle,Accessories,1,558.81,15.0,Debit Card,4.0
+ORD1182,01-Jul-2025,Anjali Chaudhary,42.0,Noida,Laptop,Electronics,1,53401.98,10.0,UPI,2.0
+ORD1617,08 April 2025,Ankit Yadav,52.0,Delhi,Pen Set,Stationery,2,155.88,15.0,UPI,3.0
+ORD1332,24-Apr-2025,Deepak Verma,33.0,Gzb,office chair,FURNITURE,3,7567.47,0.0,Debit Card,4.0
+ORD1438,30 January 2025,Anjali Kumar,45.0,New Delhi,Backpack  ,Accessories,5,1633.38,,Net Banking,3.0
+ORD1049,2025-10-12,Suresh Verma,33.0,Ghaziabad,Study Table,Furniture,1,,10.0,Credit Card,5.0
+ORD1905,2025-09-16,Rohit Singh,53.0,Noida,Headphones,Electronics,3,2380.37,10.0,  Net Banking ,3.0
+ORD1005,2025-11-10,  Kavita Verma ,,NOIDA,Pen Set,Stationery,3,158.47,10.0,Cash,3.0
+ORD1529,03-Dec-2025,Kavita Kumar,20.0,Lucknow,Office Chair,Furniture,2,7005.19,0.0,UPI,2.0
+ORD1234,29-Jun-2025,Anjali Chaudhary,26.0,Lucknow,Laptop,Electronics,1,53641.93,0.0,UPI,5.0
+ORD1486,02 May 2025,Neha Kumar,45.0,Greater Noida,Headphones,Electronics,5,2689.19,10.0,UPI,5.0
+ORD1933,25-Aug-2025,Pooja Yadav,18.0,Greater Noida,Smartphone,electronics,2,22284.38,0.0,Credit Card,4.0
+ORD1497,17 May 2025,Suresh Tiwari,32.0,Delhi,Laptop,Electronics,1,59517.3,0.0,UPI,4.0
+ORD1980,2025-08-04,Neha Yadav,35.0,Ghaziabad,Study Table,Furniture  ,5,6481.21,5.0,Net Banking,2.0
+ORD1106,12-Oct-2025,Pooja Verma,27.0,Noida,Backpack,Accessories  ,3,1711.64,0.0,Debit Card,4.0
+ORD1443,28-Jun-2025,  Suresh Singh ,51.0,Noida,Study Table,Furniture,2,6583.91,10.0,Net Banking,3.0
+ORD1488,07 October 2025,Deepak Verma,37.0,Noida,Headphones,Electronics,2,2583.96,,UPI,3.0
+ORD1646,18 June 2025,Rahul Verma,59.0,,Pen Set,Stationery,4,161.35,15.0,UPI,5.0
+ORD1012,2025-09-26,Sachin Kumar,44.0,Noida,Laptop,Electronics,2,59826.86,0.0,UPI,3.0
+ORD1738,27-Sep-2025,Karan Jain,58.0,Noida,Smartphone,Electronics,2,21898.78,0.0,UPI,4.0
+ORD1726,21-Sep-2025,Deepak Mishra,,Delhi,NOTEBOOK PACK,stationery,4,233.9,5.0,Net Banking,5.0
+ORD1190,2025-09-07,Vikas Gupta,57.0,Gurugram,Headphones,Electronics,1,2475.61,5.0,,4.0
+ORD1976,2025-02-04,priya gupta,50.0,Greater Noida,Study Table,Furniture,5,6101.51,0.0,UPI,4.0
+ORD1832,15 June 2025,Deepak Singh,38.0,Noida,Notebook Pack,Stationery,5,242.46,20.0,Credit Card,
+ORD1282,02-Sep-2025,Divya Yadav,61.0,Lucknow,Study Table,Furniture,2,5918.8,,Credit Card,4.0
+ORD1029,11-Jun-2025,Sachin Gupta,22.0,Noida,Headphones,ELECTRONICS,2,2486.97,20.0,Net Banking,3.0
+ORD1169,09 January 2025,Divya Singh,29.0,GURUGRAM,office chair,Furniture,1,,10.0,UPI,4.0
+ORD1180,2025-12-09,Ritu Chaudhary,33.0,Delhi,Laptop,Electronics,1,59610.21,0.0,Net Banking,4.0
+ORD1100,31-Oct-2025,rahul gupta,0.0,Noida,Notebook Pack,Stationery,2,271.85,15.0,Credit Card,5.0
+ORD1197,13-Feb-2025,Aman Singh,,Noida,Notebook Pack,Stationery,3,233.09,0.0,Credit Card,3.0
+ORD1495,31 May 2025,Aman Chaudhary,19.0,Ghaziabad  ,STUDY TABLE,Furniture,2,5844.54,0.0,Debit Card,2.0
+ORD1721,2025-12-06,Divya Gupta,59.0,Delhi,Headphones,Electronics,1,2610.81,0.0,Cash,2.0
+ORD1647,15 July 2025,Neha Gupta,23.0,Delhi  ,Backpack,Accessories,2,1752.7,5.0,Net Banking,5.0
+ORD1049,2025-10-12,Suresh Verma,33.0,Ghaziabad,Study Table,Furniture,1,,10.0,Credit Card,5.0
+ORD1963,21-Mar-2025,NISHA SHARMA,63.0,Delhi,Headphones,Electronics,1,2747.3,0.0,UPI,2.0
+ORD1710,05-Sep-2025,Ankit Tiwari,45.0,Delhi,  Pen Set ,Stationery,4,153.22,20.0,  UPI ,5.0
+ORD1373,17 May 2025,Karan Singh,,Noida,OFFICE CHAIR,Furniture,4,7906.22,5.0,Credit Card,5.0
+ORD1678,10-Jul-2025,Suresh Gupta,36.0,Greater Noida  ,Headphones,Electronics,2,2731.76,10.0,UPI,4.0
+ORD1913,24 December 2025,Suresh Kumar,36.0,Gurugram,Water Bottle  ,Accessories,3,552.38,0.0,Credit Card,2.0
+ORD1648,17 December 2025,Suresh Jain,38.0,Ghaziabad,Notebook Pack,Stationery,3,239.23,0.0,UPI,
+ORD1797,2025-06-17,Nisha Singh,56.0,Delhi,Smartphone  ,Electronics,1,23359.8,15.0,Debit Card,5.0
+ORD1847,19-Jan-2025,Suresh Mishra,52.0,Delhi,Office Chair,Furniture,5,7998.76,10.0,UPI,4.0
+ORD1460,2025-09-22,Ankit Kumar,47.0,Delhi,Notebook Pack,Stationery,3,252.15,0.0,UPI,5.0
+ORD1413,2025-02-18,Anjali Sharma,35.0,Noida,Water Bottle,Accessories,1,602.27,10.0,UPI,5.0
+ORD1131,22-Jul-2025,Manish Mishra,23.0,Delhi,Backpack,Accessories,5,1644.25,20.0,Cash,2.0
+ORD1039,2025-08-19,Meena Kumar,52.0,Noida,Backpack,Accessories,3,1849.85,5.0,UPI,4.0
+ORD1434,08-Jun-2025,Rahul Verma,19.0,,Pen Set,Stationery,4,145.98,0.0,  Credit Card ,4.0
+ORD1215,10 April 2025,Anjali Singh,21.0,,Smartphone,Electronics,1,22395.93,0.0,UPI,
+ORD1555,04 July 2025,Anjali Yadav,,Lucknow,Pen Set,Stationery,1,137.58,0.0,Credit Card,4.0
+ORD1566,2025-03-25,Rahul Singh,56.0,Gurugram,Office Chair,FURNITURE,1,7859.92,0.0,UPI,4.0
+ORD1762,2025-12-13,Ankit Gupta,48.0,Lucknow,Headphones,Electronics,2,2331.16,0.0,Net Banking,
+ORD1474,20 August 2025,Manish Yadav,31.0,Gurugram,Headphones,Electronics,5,2526.19,10.0,Debit Card,4.0
+ORD1456,2025-02-24,  Deepak Singh ,50.0,Noida,Pen Set,Stationery,3,160.64,0.0,Credit Card,4.0
+ORD1811,2025-11-17,Nisha Yadav,30.0,NOIDA,Water Bottle,Accessories,5,650.68,0.0,DEBIT CARD,4.0
+ORD1260,2025-10-17,Aman Verma,56.0,,Pen Set  ,Stationery,2,148.02,10.0,Cash,4.0
+ORD1816,16 January 2025,ritu jain,21.0,Gurugram,Notebook Pack,Stationery,5,255.07,15.0,Debit Card,3.0
+ORD1035,2025-01-24,Sachin Verma,40.0,Noida,Headphones,Electronics,1,2622.0,5.0,Debit Card,3.0
+ORD1827,24-Nov-2025,Neha Verma,57.0,Delhi,Notebook Pack,Stationery,5,243.42,0.0,Debit Card,5.0
+ORD1911,08-Mar-2025,Anjali Verma,31.0,Delhi,Water Bottle,Accessories,1,Rs. 656.46,20.0,UPI  ,5.0
+ORD1309,09-Feb-2025,Ritu Singh,28.0,Delhi,Water Bottle,Accessories,2,568.86,5.0,UPI,4.0
+ORD1276,2025-06-20,NISHA VERMA,44.0,noida,Notebook Pack,Stationery,5,237.4,0.0,UPI,1.0
+ORD1636,2025-03-27,Kavita Gupta,48.0,Ghaziabad,Notebook Pack,Stationery,3,227.28,5.0,UPI,5.0
+ORD1654,21-Jul-2025,Priya Verma,19.0,GHAZIABAD,Notebook Pack,Stationery,5,267.81,0.0,UPI,2.0
+ORD1622,02-Mar-2025,Aman Tiwari,42.0,New Delhi,Backpack,ACCESSORIES,3,1915.48,5.0,UPI,
+ORD1835,2025-10-11,Manish Chaudhary,30.0,Delhi  ,Backpack,Accessories,4,1742.33,,UPI,3.0
+ORD1844,2025-01-02,Divya Gupta,53.0,Delhi,Water Bottle,Accessories  ,5,565.38,10.0,Credit Card,5.0
+ORD1393,2025-08-07,Rahul Sharma,58.0,Delhi,Smartphone,Electronics,1,20621.72,5.0,UPI,4.0
+ORD1972,24-Jun-2025,Anjali Yadav,50.0,Noida,Smartphone,Electronics,2,20325.51,10.0,Net Banking,5.0
+ORD1107,31 August 2025,Rohit Sharma,36.0,Ghaziabad,Smartphone,Electronics,1,22149.18,10.0,Net Banking,4.0
+ORD1979,26-Jul-2025,Neha Verma,50.0,Delhi,  Notebook Pack ,Stationery,4,251.27,10.0,Net Banking,10.0
+ORD1524,27 April 2025,Rahul Jain,48.0,Greater Noida,Pen Set,Stationery,2,144.95,10.0,UPI,3.0
+ORD1784,24 June 2025,Aman Sharma,30.0,Lucknow,Water Bottle,Accessories,1,546.93,0.0,Credit Card,5.0
+ORD1047,22-Nov-2025,Kavita Chaudhary,39.0,Delhi,Smartphone,ELECTRONICS,1,21860.61,20.0,UPI,2.0
+ORD1203,2025-09-13,Aman Tiwari,20.0,Ghaziabad,Backpack,ACCESSORIES,3,1677.98,10.0,DEBIT CARD,4.0
+ORD1959,31-May-2025,Sachin Mishra,58.0,Ghaziabad,Office Chair,Furniture,5,7105.66,0.0,Credit Card,5.0
+ORD1631,2025-04-30,Anjali Chaudhary,40.0,Delhi,Notebook Pack,Stationery,5,268.44,0.0,Debit Card,4.0
+ORD1021,2025-05-16,Anjali Tiwari,30.0,Noida,Office Chair,Furniture,1,8111.41,,UPI,3.0
+ORD1402,2025-04-27,Aman Jain,55.0,Greater Noida,Laptop,Electronics,1,56316.45,20.0,UPI,5.0
+ORD1083,2025-10-31,VIKAS CHAUDHARY,50.0,Noida,Office Chair,Furniture,3,7770.05,0.0,UPI,4.0
+ORD1130,26-Jul-2025,Ritu Verma,43.0,,Water Bottle,Accessories,3,656.95,5.0,UPI,3.0
+ORD1415,2025-09-05,Divya Singh,60.0,Delhi,Water Bottle,Accessories,5,650.31,0.0,UPI,2.0
+ORD1496,2025-02-13,Rohit Yadav,37.0,  Ghaziabad ,Notebook Pack,Stationery,1,268.64,5.0,UPI,5.0
+ORD1841,28-Aug-2025,Rahul Kumar,30.0,Delhi,Backpack,Accessories,4,1632.41,0.0,UPI,5.0
+ORD1741,06-Oct-2025,Meena Chaudhary,39.0,Delhi,Headphones  ,Electronics,5,2528.98,5.0,Net Banking,5.0
+ORD1697,04 August 2025,Kavita Singh,49.0,Gurugram,Pen Set  ,Stationery,5,156.17,15.0,UPI,5.0
+ORD1286,2025-02-28,Aman Sharma,45.0,Ghaziabad  ,Backpack,Accessories,2,1852.15,10.0,Cash  ,5.0
+ORD1123,2025-06-21,Priya Verma,,GURUGRAM,Notebook Pack,Stationery,5,248.88,15.0,UPI,4.0
+ORD1033,22 July 2025,Priya Chaudhary,59.0,Gurugram,Pen Set,Stationery,5,157.49,0.0,upi ,3.0
+ORD1142,11 April 2025,Meena Tiwari,,Greater Noida,LAPTOP,Electronics,2,55243.56,5.0,Credit Card,1.0
+ORD1516,2025-11-18,Anjali Sharma,62.0,Ghaziabad,Pen Set,Stationery,4,163.08,0.0,  Cash ,2.0
+ORD1923,22-Feb-2025,Sneha Yadav  ,25.0,Greater Noida,Office Chair,  Furniture ,2,7786.66,10.0,Credit Card,5.0
+ORD1019,14 June 2025,Ritu Tiwari,37.0,Lucknow,Backpack,Accessories,4,1973.88,5.0,UPI,5.0
+ORD1999,07-Jul-2025,Meena Sharma,25.0,lucknow,Pen Set,Stationery,1,153.15,5.0,Credit Card,1.0
+ORD1219,2025-11-26,Vikas Mishra,47.0,Delhi,Water Bottle,Accessories,2,658.24,10.0,UPI,4.0
+ORD1891,17 September 2025,Ankit Chaudhary,42.0,Ghaziabad,Backpack,Accessories,1,1653.07,5.0,Cash,5.0
+ORD1579,07 February 2025,Neha Jain,32.0,Noida,HEADPHONES,Electronics,4,2581.04,15.0,Debit Card,3.0
+ORD1481,2025-10-30,Vikas Singh,38.0,Delhi,Backpack,Accessories,2,1779.31,10.0,Debit Card,4.0
+ORD1931,2025-09-13,Deepak Tiwari,150.0,New Delhi,Notebook Pack,Stationery,1,241.55,10.0,Net Banking,4.0
+ORD1356,25 February 2025,Priya Gupta,18.0,Delhi,Pen Set,Stationery,4,144.71,0.0,Credit Card,
+ORD1661,2025-09-26,Aman Verma,31.0,,Pen Set,Stationery,5,151.04,0.0,Debit Card,
+ORD1224,21 September 2025,Deepak Chaudhary,64.0,Greater Noida,Smartphone,Electronics,1,21773.22,0.0,Debit Card,5.0
+ORD1759,24-Sep-2025,Rahul Mishra,48.0,Delhi,Water Bottle  ,Accessories,1,600.22,0.0,UPI,5.0
+ORD1092,04 November 2025,Rohit Kumar,65.0,Gurugram,Headphones,Electronics,4,2714.62,0.0,UPI,5.0
+ORD1151,13-Apr-2025,Sneha Jain,47.0,Gurugram,BACKPACK,accessories,2,1786.94,0.0,Debit Card,4.0
+ORD1600,2025-08-13,Karan Kumar,54.0,GHAZIABAD,Laptop,Electronics,1,50569.34,0.0,Credit Card,5.0
+ORD1317,23-Sep-2025,Kavita Tiwari,58.0,Noida,Notebook Pack,STATIONERY,3,256.91,5.0,Cash,
+ORD1448,10 July 2025,Rohit Kumar,28.0,Gzb,Backpack,Accessories,5,1868.31,0.0,UPI,
+ORD1803,02 December 2025,Aman Gupta,31.0,Lucknow,Headphones,Electronics,4,2727.76,15.0,  UPI ,4.0
+ORD1745,2025-05-13,Karan Chaudhary,48.0,Noida,Headphones,Electronics,2,2619.95,15.0,UPI,4.0
+ORD1522,2025-03-12,Priya Chaudhary,46.0,GHAZIABAD,Water Bottle,accessories,1,540.45,0.0,UPI,5.0
+ORD1279,2025-01-31,  Aman Gupta ,63.0,  Lucknow ,Backpack,Accessories,1,1976.71,10.0,UPI,5.0
+ORD1583,19 January 2025,Pooja Mishra,52.0,Lucknow,Backpack,Accessories,3,1736.76,10.0,  Credit Card ,3.0
+ORD1764,12 May 2025,Vikas Jain,35.0,Gurugram,Notebook Pack,Stationery,3,272.68,20.0,Credit Card,3.0
+ORD1604,29 October 2025,Suresh Chaudhary,60.0,Gurugram,Smartphone,Electronics,1,21114.38,0.0,Net Banking,3.0
+ORD1006,01 February 2025,Pooja Singh,36.0,Delhi,Headphones,electronics,2,2338.18,5.0,cash,4.0
+ORD1349,2025-03-02,Sachin Singh,28.0,Gzb,Water Bottle,Accessories,2,561.34,15.0,Net Banking,3.0
+ORD1927,20-Apr-2025,Meena Gupta,22.0,Greater Noida,Smartphone,Electronics,1,22269.18,20.0,UPI,4.0
+ORD1374,20 November 2025,Rohit Chaudhary,56.0,Greater Noida,Pen Set,Stationery,5,149.51,20.0,UPI,
+ORD1400,31-Dec-2025,Kavita Singh,34.0,Delhi,Notebook Pack,Stationery,5,260.69,20.0,UPI,4.0
+ORD1704,2025-02-17,Kavita Chaudhary,39.0,Delhi,Laptop,Electronics,1,51001.08,5.0,Net Banking,4.0
+ORD1257,07-Feb-2025,Aman Yadav,,Lucknow,Water Bottle,Accessories,1,653.1,0.0,Debit Card,1.0
+ORD1944,17 February 2025,Sachin Tiwari,,Lucknow,Headphones,Electronics,1,2551.1,0.0,Debit Card,2.0
+ORD1851,20-Oct-2025,,41.0,Ghaziabad,Backpack,Accessories,4,1660.86,10.0,UPI,
+ORD1072,18 June 2025,Rahul Gupta,24.0,Delhi,Notebook Pack,Stationery,1,269.25,5.0,DEBIT CARD,1.0
+ORD1195,01-Feb-2025,Rahul Gupta,62.0,Delhi,Notebook Pack,Stationery,5,Rs. 245.52,5.0,Debit Card,4.0
+ORD1483,18-Oct-2025,Divya Mishra,59.0,Gzb,Notebook Pack,Stationery,5,255.13,0.0,UPI,5.0
+ORD1855,07 November 2025,Anjali Yadav,25.0,Delhi,Laptop,Electronics,1,52407.54,0.0,Net Banking,5.0
+ORD1137,12 January 2025,Manish Singh,22.0,Ghaziabad,PEN SET,stationery,5,161.19,10.0,UPI,5.0
+ORD1494,16 April 2025,Pooja Mishra,25.0,Ghaziabad,Water Bottle,Accessories,1,625.76,0.0,UPI,3.0
+ORD1772,02 January 2025,Kavita Jain,56.0,Lucknow,  Office Chair ,Furniture,1,7975.65,10.0,UPI,5.0
+ORD1550,2025-10-21,Suresh Tiwari,49.0,Lucknow,Pen Set,Stationery,3,157.59,10.0,Net Banking,4.0
+ORD1462,2025-10-01,Suresh Verma,20.0,Delhi,Smartphone,Electronics,2,23082.16,10.0,Debit Card,3.0
+ORD1201,28-Nov-2025,priya tiwari,51.0,Delhi,Headphones,Electronics,3,2711.43,5.0,Credit Card,5.0
+ORD1312,2025-02-13,Neha Singh,63.0,Ghaziabad,Water Bottle,Accessories,1,551.35,0.0,UPI  ,1.0
+ORD1290,22 October 2025,Aman Sharma,25.0,Gurugram,Headphones,Electronics,3,2258.25,5.0,Cash,3.0
+ORD1960,26 February 2025,Rohit Verma,62.0,Noida,Pen Set,Stationery,5,158.51,0.0,UPI,5.0
+ORD1189,2025-04-21,Nisha Sharma,40.0,Delhi,Notebook Pack,Stationery,5,274.04,10.0,Cash,5.0
+ORD1763,08 December 2025,Nisha Gupta,46.0,Delhi,Water Bottle,Accessories,3,626.74,0.0,UPI,
+ORD1112,22-Jul-2025,Vikas Mishra,54.0,Delhi,WATER BOTTLE,Accessories,2,551.23,15.0,UPI,5.0
+ORD1949,2025-04-12,Rohit Kumar,30.0,Delhi,Headphones,Electronics,4,2552.41,5.0,Cash,2.0
+ORD1183,2025-09-12,Rahul Singh,28.0,Gurugram,STUDY TABLE,Furniture,4,6165.35,0.0,  Debit Card ,4.0
+ORD1152,01 December 2025,Sachin Mishra,22.0,Gurugram,Pen Set,Stationery,4,146.88,0.0,Net Banking,1.0
+ORD1824,2025-08-16,Suresh Chaudhary,62.0,Delhi,Headphones,Electronics,2,2428.9,15.0,UPI,5.0
+ORD1325,26 March 2025,Kavita Jain,54.0,Lucknow,Laptop,Electronics,1,57249.04,0.0,UPI,5.0
+ORD1703,2025-03-04,Manish Gupta,21.0,Delhi,Pen Set,Stationery,4,155.08,10.0,UPI,4.0
+ORD1044,25 January 2025,Ankit Singh,39.0,Gurugram,Smartphone,Electronics,1,20181.53,0.0,UPI,5.0
+ORD1444,05 July 2025,Rahul Yadav,32.0,Gurugram,Study Table,Furniture,4,6567.91,15.0,Credit Card,4.0
+ORD1787,2025-09-08,Manish Chaudhary,18.0,Gurugram,Headphones,electronics,3,2286.81,20.0,UPI,5.0
+ORD1006,01 February 2025,Pooja Singh,36.0,Delhi,Headphones,electronics,2,2338.18,5.0,cash,4.0
+ORD1250,07 March 2025,Nisha Kumar,41.0,Delhi,Headphones,Electronics,1,2526.51,0.0,Cash,2.0
+ORD1823,26-Aug-2025,Karan Mishra,44.0,Delhi,Pen Set,Stationery,3,151.4,0.0,UPI,4.0
+ORD1075,23 June 2025,  Pooja Jain ,43.0,Ghaziabad,Notebook Pack,Stationery,2,265.52,0.0,UPI,4.0
+ORD1512,2025-11-03,Suresh Kumar,,Lucknow,Notebook Pack,Stationery,5,₹245.68,10.0,UPI,4.0
+ORD1940,10-Sep-2025,Vikas Tiwari,,Delhi,Headphones,Electronics,4,2557.63,0.0,Cash,5.0
+ORD1391,07-Mar-2025,Meena Tiwari,55.0,Greater Noida,water bottle,Accessories,5,604.44,10.0,Credit Card,4.0
+ORD1895,12 August 2025,Aman Gupta,64.0,Gurugram,Smartphone,Electronics,1,23001.25,0.0,UPI,2.0
+ORD1432,29-Oct-2025,Deepak Kumar,50.0,Delhi,Office Chair,Furniture,3,7586.83,10.0,upi ,5.0
+ORD1068,2025-01-28,Kavita Sharma,28.0,Greater Noida,Office Chair,Furniture,4,8163.85,10.0,UPI,5.0
+ORD1998,18 December 2025,Suresh Verma,52.0,Delhi,Headphones,Electronics,3,2281.71,10.0,Net Banking,4.0
+ORD1167,2025-03-02,Kavita Gupta,37.0,Ghaziabad,Water Bottle,Accessories,2,613.71,5.0,Credit Card,4.0
+ORD1904,17-Jun-2025,Karan Yadav,50.0,Delhi,Smartphone,Electronics,1,20617.21,20.0,Debit Card,4.0
+ORD1730,24-Sep-2025,Deepak Verma  ,23.0,Lucknow,Headphones,electronics,3,2378.31,5.0,UPI,4.0
+ORD1554,2025-12-26,Vikas Jain,51.0,Gurugram,Headphones,electronics,1,2664.52,0.0,UPI,3.0
+ORD1366,2025-06-21,  Neha Verma ,55.0,Noida,Backpack,Accessories,4,1831.01,0.0,Debit Card,5.0
+ORD1345,04 April 2025,  Rohit Singh ,49.0,Noida,Backpack,Accessories,1,1806.73,5.0,UPI,5.0
+ORD1535,26 February 2025,Ritu Chaudhary,22.0,Greater Noida,Pen Set,Stationery,5,150.28,0.0,Credit Card,2.0
+ORD1919,21-Aug-2025,Neha Verma,28.0,Delhi,Water Bottle,Accessories,4,614.74,0.0,UPI,4.0
+ORD1211,19-Sep-2025,Deepak Verma,47.0,Noida,Pen Set,Stationery,4,156.48,15.0,,4.0
+ORD1502,18-Dec-2025,Neha Mishra,41.0,Ghaziabad,Smartphone  ,Electronics,2,21081.56,5.0,Credit Card,5.0
+ORD1537,12-Feb-2025,Neha Yadav,25.0,GREATER NOIDA,Office Chair,Furniture,3,7726.2,,UPI,1.0
+ORD1175,18-Jun-2025,Deepak Verma,36.0,Greater Noida,Office Chair,Furniture,2,7927.06,0.0,UPI,3.0
